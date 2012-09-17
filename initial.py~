@@ -1,0 +1,25 @@
+import oauth2 as oauth
+import httplib2
+import time, os, simplejson
+ 
+# Fill the keys and secrets you retrieved after registering your app
+consumer_key      =   'mtt4fefyssp5'
+consumer_secret  =   'zz8tvRMUeYUn32vB'
+user_token           =   '53e42f02-8009-4c9e-8c1d-82a98b6b50f2'
+user_secret          =   'df69d1b1-2831-42f0-bd86-c565150e460d'
+ 
+# Use your API key and secret to instantiate consumer object
+consumer = oauth.Consumer(consumer_key, consumer_secret)
+ 
+# Use your developer token and secret to instantiate access token object
+access_token = oauth.Token(
+            key=user_token,
+            secret=user_secret)
+ 
+client = oauth.Client(consumer, access_token)
+ 
+# Make call to LinkedIn to retrieve your own profile
+resp,content = client.request("http://api.linkedin.com/v1/people/~?format=json", "GET", {})
+ 
+# By default, the LinkedIn API responses are in XML format. If you prefer JSON, simply specify the format in your call
+# resp,content = client.request("http://api.linkedin.com/v1/people/~?format=json", "GET", {})
