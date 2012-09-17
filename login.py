@@ -1,3 +1,6 @@
+# Author: Daniel Zhao
+# File: linkedin_login.py
+
 import oauth2 as oauth
 import httplib2
 import time, os, simplejson
