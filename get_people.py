@@ -20,8 +20,8 @@ MAX_RESULTS = 5000
 # Establish a connection to a CouchDB database
 
 server = couchdb.Server('http://localhost:5984')
-DB = 'job-postings-%s' % ( INDUSTRY_NAME, )
-DB2 = 'job-postings-%s-meta' % ( INDUSTRY_NAME, )
+DB = 'job-people-%s' % ( INDUSTRY_NAME, )
+DB2 = 'job-people-%s-meta' % ( INDUSTRY_NAME, )
 
 try:
 	db = server.create(DB)
@@ -42,7 +42,7 @@ client = login()
 start = 0
 
 while start <= MAX_RESULTS:
-	url = "http://api.linkedin.com/v1/job-search?facet=industry,"+ INDUSTRY_CODE +"&count=20&start="+ str(start) +"&format=json"
+	url = "http://api.linkedin.com/v1/people-search?facet=industry,"+ INDUSTRY_CODE +"&facet=current-company,null&count=20&start="+ str(start) +"&format=json"
 	resp, content = client.request(url)
 
 # print resp
