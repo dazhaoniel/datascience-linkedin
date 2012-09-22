@@ -1,0 +1,939 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<updates total="17">
+  <update>
+    <timestamp>1348283409620</timestamp>
+    <update-key>UNIU-c1276-5655110498136371200-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1276</id>
+        <name>Apple Retail</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>fQb9ebe58W</id>
+          <first-name>James</first-name>
+          <last-name>Stott</last-name>
+          <headline>Associate, Apple Store Leadership Program at Apple Retail</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_5R4EHmroo7uFGSxQLUIMHDP96uZBaSOQFp2zHDrnJWubAdd6djHQQSkZHG4eSE0Ek4VNFECz82gw</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/fQb9ebe58W</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:QI79</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=103701315&amp;authToken=QI79&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Associate, Apple Store Leadership Program</title>
+          <company>
+            <id>1276</id>
+            <name>Apple Retail</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348120097112</timestamp>
+    <update-key>UNIU-c1276-5654425515851796480-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1276</id>
+        <name>Apple Retail</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>AN5Tw0d2b5</id>
+          <first-name>Stephanie</first-name>
+          <last-name>Hunink</last-name>
+          <headline>Travel Coordinator APAC at Apple Retail</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_RSNOt_HdtPEDIKbAMW-3t3MXYKg7WK9AJd8TthWzT9Wxnq3lBwk-p8jRKgjKoBcjVmnhgbRx66SA</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/AN5Tw0d2b5</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:SmYR</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=28185984&amp;authToken=SmYR&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Travel Coordinator APAC</title>
+          <company>
+            <id>1276</id>
+            <name>Apple Retail</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>Z_43nliTpI</id>
+          <first-name>Eugin</first-name>
+          <last-name>A</last-name>
+          <headline>Oracle Certified Java Programmer. Fresher</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_T_Ic9Y7Twk5MV2R13TMe9jY7dX-ZsoI1_F0e9pDY9C6e5mpPD5RRZyMKFdtbJDo088ddJUPjZUHy</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1348103237047</timestamp>
+    <update-key>UNIU-c1276-5654354799613718528-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1276</id>
+        <name>Apple Retail</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>5tDoC53E0C</id>
+          <first-name>Jenny</first-name>
+          <last-name>Cano</last-name>
+          <headline>Specialist at Apple Retail</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_tm_nI1uqaa1xkOdFpEtLIlyJ2Ic0X4eFr2BdIlao1aifRyxbOePs5AsXG5Bhb0WIPSTeX9rRc5_Y</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/5tDoC53E0C</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:KEgz</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=106600931&amp;authToken=KEgz&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Specialist</title>
+          <company>
+            <id>1276</id>
+            <name>Apple Retail</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>Z_43nliTpI</id>
+          <first-name>Eugin</first-name>
+          <last-name>A</last-name>
+          <headline>Oracle Certified Java Programmer. Fresher</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_T_Ic9Y7Twk5MV2R13TMe9jY7dX-ZsoI1_F0e9pDY9C6e5mpPD5RRZyMKFdtbJDo088ddJUPjZUHy</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1348083681140</timestamp>
+    <update-key>UNIU-c1276-5654272776194772992-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1276</id>
+        <name>Apple Retail</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>TB4JdE4mD6</id>
+          <first-name>Mario</first-name>
+          <last-name>Hoyos Real</last-name>
+          <headline>Creative at Apple Inc.</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_IyKoXmzV_WVHiVOndVhJX2XN_uOW3xxnWUkvX2LbyooMORe9bs86EulWSTYnCZYsoxtqIwRSBw0S</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/TB4JdE4mD6</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:sOF2</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=117662213&amp;authToken=sOF2&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Creative</title>
+          <company>
+            <id>1276</id>
+            <name>Apple Retail</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>Z_43nliTpI</id>
+          <first-name>Eugin</first-name>
+          <last-name>A</last-name>
+          <headline>Oracle Certified Java Programmer. Fresher</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_T_Ic9Y7Twk5MV2R13TMe9jY7dX-ZsoI1_F0e9pDY9C6e5mpPD5RRZyMKFdtbJDo088ddJUPjZUHy</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1348083666126</timestamp>
+    <update-key>UNIU-c1276-5654272713221480448-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1276</id>
+        <name>Apple Retail</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>tfYTotM3Lk</id>
+          <first-name>marina</first-name>
+          <last-name>márquez chueca</last-name>
+          <headline>Creative en Apple Retail</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_UQF0ZCRSY6H7RnW3JFXhZ3Z8OiUGRn43MG18Zhsj357-X-fTc8c198a1raRjZlJDs5L3BbkZlCXR</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/tfYTotM3Lk</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:xsgf</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=168265089&amp;authToken=xsgf&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Creative</title>
+          <company>
+            <id>1276</id>
+            <name>Apple Retail</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347986152731</timestamp>
+    <update-key>UNIU-c1276-5653863712394588160-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1276</id>
+        <name>Apple Retail</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>5J4272HzYA</id>
+          <first-name>Alison</first-name>
+          <last-name>Dowdy</last-name>
+          <headline>Family Room Specialist at Apple Retail</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/5J4272HzYA</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:AfF5</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=161075990&amp;authToken=AfF5&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Client Systems Support Analyst</title>
+          <company>
+            <name>City of Edmond</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Family Room Specialist</title>
+          <company>
+            <id>1276</id>
+            <name>Apple Retail</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347939989567</timestamp>
+    <update-key>UNIU-c1276-5653670090055356416-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1276</id>
+        <name>Apple Retail</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>Qo2r8sA19H</id>
+          <first-name>Eric</first-name>
+          <last-name>Valentine</last-name>
+          <headline>Specialist at Apple</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_itf3qVAYc_Bvr6SpiKOYqZ-uzLis-5SpTvRYqZG2o_cED3sy7N0Ds4nGRH_5lCurGlD0R0rTIKH4</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/Qo2r8sA19H</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:w_Ut</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=189934735&amp;authToken=w_Ut&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Assistant Manager</title>
+          <company>
+            <id>163864</id>
+            <name>Foot Locker</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Specialist</title>
+          <company>
+            <id>1276</id>
+            <name>Apple Retail</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>KDUAX2gFqX</id>
+          <first-name>Oscar</first-name>
+          <last-name>López Burgos</last-name>
+          <headline>at Anglos Barcelona</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_Rm-zu_os7YOC6ZzkRS1QuhMRS4UfXjkkJo6EuhHQtY70RMPXBeGJG8ye_zRrbV5eVSrI_bVE2C3d</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1347933521092</timestamp>
+    <update-key>UNIU-c1276-5653642959283822592-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1276</id>
+        <name>Apple Retail</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>Xm12_GBxu1</id>
+          <first-name>Jerrica</first-name>
+          <last-name>Deloney</last-name>
+          <headline>Preservation and Operations Specialist at Apple Retail</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_R7Vm6CIHBeVGokyzMwIj6hsHcaOfECjzMDaA6heqHeo0v6ovBWoCe8pVJiYrd5pJVu4KdbVlRHkj</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/Xm12_GBxu1</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:MwLU</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=150374649&amp;authToken=MwLU&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Preservation and Operations Specialist</title>
+          <company>
+            <id>1276</id>
+            <name>Apple Retail</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347896527520</timestamp>
+    <update-key>UNIU-c1276-5653487797005213696-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1276</id>
+        <name>Apple Retail</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>xqEdFDDzBi</id>
+          <first-name>Lorenzo</first-name>
+          <last-name>Macrì</last-name>
+          <headline>Creative presso Apple Retail</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/xqEdFDDzBi</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:hT87</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=61668577&amp;authToken=hT87&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Creative</title>
+          <company>
+            <id>1276</id>
+            <name>Apple Retail</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>RVcxvfmNRF</id>
+          <first-name>Chaitanya</first-name>
+          <last-name>Bist</last-name>
+          <headline>Design Associate at National Institute of Design</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_fXI2TMU7zsQEz5CsS3U1TRHOvjCQJ61sSQ0PTR4YEUnn6CXV_GRhfUuKUrGMs3-naFd-myEwgGi2</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1347894635492</timestamp>
+    <update-key>UNIU-c1276-5653479861268799488-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1276</id>
+        <name>Apple Retail</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>AdRmlYRytn</id>
+          <first-name>Carlos</first-name>
+          <last-name>Barrera Hernandez</last-name>
+          <headline>Family Room Specialist en Apple Retail</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/AdRmlYRytn</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:jgl7</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=53107248&amp;authToken=jgl7&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Family Room Specialist</title>
+          <company>
+            <id>1276</id>
+            <name>Apple Retail</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347749469148</timestamp>
+    <update-key>UNIU-c1276-5652870989495689216-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1276</id>
+        <name>Apple Retail</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>6TShM0VFsU</id>
+          <first-name>Dan</first-name>
+          <last-name>Fraser</last-name>
+          <headline>Senior Manager at Apple Retail</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_e0hbvSBZhLJM_O2P6RiZvfNI860d342Pogq4vakwx8IJOyR1XJrwRmr5mIx9C0DxWpGMsWnM7hdQ</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/6TShM0VFsU</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:mARQ</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=73246242&amp;authToken=mARQ&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>District Manager</title>
+          <company>
+            <id>2271</id>
+            <name>Starbucks Coffee Company</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Senior Manager</title>
+          <company>
+            <id>1276</id>
+            <name>Apple Retail</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347745051096</timestamp>
+    <update-key>UNIU-c1276-5652852458846695424-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1276</id>
+        <name>Apple Retail</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>no7fbMFblX</id>
+          <first-name>Riccardo</first-name>
+          <last-name>Franceschi</last-name>
+          <headline>Business Specialist at Apple Retail</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_66VqgSgSdBuzVIQhkXRwgfymIcMBsmQhXCawgfy-qlSb5ol8Eho417HpLVJeJWb2FL4oteC1Adjf</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/no7fbMFblX</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:cC-x</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=101105316&amp;authToken=cC-x&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Project Manager</title>
+          <company>
+            <name>Riccardo Franceschi</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Business Specialist</title>
+          <company>
+            <id>1276</id>
+            <name>Apple Retail</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347696546590</timestamp>
+    <update-key>UNIU-c1276-5652649016198955008-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1276</id>
+        <name>Apple Retail</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>98XZUJHKRP</id>
+          <first-name>Darren</first-name>
+          <last-name>Rayner-Williams</last-name>
+          <headline>Store Leader - Apple</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_527SxewBnnYUoXTf5Hytxo0dnreU6XrfFIU-xIuWWnywJ8F7doxTAw4bZjHk5iAikfSPKut_SViQ</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/98XZUJHKRP</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:K9Wx</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=40018675&amp;authToken=K9Wx&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Store Leader</title>
+          <company>
+            <id>1276</id>
+            <name>Apple Retail</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347670592987</timestamp>
+    <update-key>UNIU-c1276-5652540158902296576-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1276</id>
+        <name>Apple Retail</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>DAmCXWxoGf</id>
+          <first-name>Heather</first-name>
+          <last-name>Bulthuis</last-name>
+          <headline>Specialist at Apple Retail</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_upscWJiLWa3eu7Vdm0wkWsNqdWXou7wdmZmeWsLq9frVPIyWhVERFVlVFkkzfeELS0ZdQjRL5YWk</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/DAmCXWxoGf</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:05g_</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=160813167&amp;authToken=05g_&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Student Box Office Manager</title>
+          <company>
+            <name>Kirkland Fine Arts Center, Millikin University</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Specialist</title>
+          <company>
+            <id>1276</id>
+            <name>Apple Retail</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347631889113</timestamp>
+    <update-key>UNIU-c1276-5652377823076184064-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1276</id>
+        <name>Apple Retail</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>FS-mgfn7F_</id>
+          <first-name>Karl</first-name>
+          <last-name>Eskner</last-name>
+          <headline>Expert at Apple Retail</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_G13YmJiAyRAHAnBIucGTmUCyY0FZAnBIhBz3mU3DTM1ea-8wmzAthRviK-bbtlnFiri8TpPvLGna</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/FS-mgfn7F_</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:dywH</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=139968938&amp;authToken=dywH&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Customer Support</title>
+          <company>
+            <id>1914</id>
+            <name>TeliaSonera</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Expert</title>
+          <company>
+            <id>1276</id>
+            <name>Apple Retail</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347620994513</timestamp>
+    <update-key>UNIU-c1276-5652332127820201984-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1276</id>
+        <name>Apple Retail</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>yXIHQd6ocu</id>
+          <first-name>Angie</first-name>
+          <last-name>Jiang</last-name>
+          <headline>ASLP Associate at Apple Retail</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_fXI2TMUfc4reM61sSkVPTVUYvjCQJ61sSi0PTR4YEUnn6CXV_GRhfUuKUrGMs3-naFd-myo8rmn2</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/yXIHQd6ocu</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:tAN0</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=157323470&amp;authToken=tAN0&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>ASLP Associate</title>
+          <company>
+            <id>1276</id>
+            <name>Apple Retail</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347496220882</timestamp>
+    <update-key>UNIU-c1276-5651808789272211456-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1276</id>
+        <name>Apple Retail</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>SY_DSESDmZ</id>
+          <first-name>Patrizia</first-name>
+          <last-name>Nicolai</last-name>
+          <headline>ASLP Associate at Apple Retail</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_ZSvRnLMda_e7I4EYs2LXnbHvuGD7WORYsdTknbWvPkJxns2Oqw5c4FjUCfSKoJVtMmBLMhBysMOM</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/SY_DSESDmZ</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:Y2LM</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=188239085&amp;authToken=Y2LM&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Sales assistant</title>
+          <company>
+            <name>Minoia Store</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Associate</title>
+          <company>
+            <id>1276</id>
+            <name>Apple Retail</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+</updates>

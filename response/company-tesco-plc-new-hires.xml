@@ -1,0 +1,974 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<updates total="19">
+  <update>
+    <timestamp>1348324640042</timestamp>
+    <update-key>UNIU-c3266-5655283431072870400-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>T-jHd8R1N_</id>
+          <first-name>Alpana</first-name>
+          <last-name>Joshi</last-name>
+          <headline>Asst Manager - Feasibility Architecture, Asia</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_1C0R3978W0BPq2FUlGpH3vx8dY8yq7cUl5Ik3Nah94NuIIhRxkfc7qsaFPh_Be9B-TjLa1pk1lUa</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/T-jHd8R1N_</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:7jcL</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=27283777&amp;authToken=7jcL&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Project Architect</title>
+          <company>
+            <id>1512</id>
+            <name>Target</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Asst Manager - Feasibility Architecture, Asia</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348315917623</timestamp>
+    <update-key>UNIU-c3266-5655246846595964928-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>0aNUxnzJYE</id>
+          <first-name>Sian</first-name>
+          <last-name>Farmer</last-name>
+          <headline>Account Management and Online Marketing, London Grocery at Tesco PLC</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_UciCe3c1tIYDt1gbRlGgeCq2tdVG-zSbJrcje_92S7a-DlsFcA1m6iCGyXsjl-uwsq3ybXeQkGcL</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/0aNUxnzJYE</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:LGtc</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=110024319&amp;authToken=LGtc&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Account Management London Dotcom Grocery</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348272165777</timestamp>
+    <update-key>UNIU-c3266-5655063338103615488-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>RP1QmXfg5q</id>
+          <first-name>Josh</first-name>
+          <last-name>Daniels</last-name>
+          <headline>Trainee Buyer at Tesco PLC</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_fjdmjjFXNzldaL8TfswljYNdNtnoaLATSVjAjY5VwqCVAT63_RJCPOAqsx9zSGrSaOIK-Jcqe1Ss</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/RP1QmXfg5q</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:R2o4</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=67760005&amp;authToken=R2o4&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Trainee Buyer</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348257974894</timestamp>
+    <update-key>UNIU-c3266-5655003817188536320-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>YNxR-DjXtf</id>
+          <first-name>Katie</first-name>
+          <last-name>Gould</last-name>
+          <headline>Trainee Marketing Graduate at Tesco PLC</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_Z3_74Xf1AhOhNt7u4iky4bHpl8e7qNxuVhBr4bW2m6yxIre2qFP_nFjGxSHKBPY8MGTlchRL8kBf</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/YNxR-DjXtf</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:-bgN</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=137470616&amp;authToken=-bgN&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Trainee Marketing Graduate</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348244529345</timestamp>
+    <update-key>UNIU-c3266-5654947422468571136-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>r30XaPA6Yx</id>
+          <first-name>Tim</first-name>
+          <last-name>Woodhouse</last-name>
+          <headline>Marketing Manager - Market Research at Tesco PLC</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/r30XaPA6Yx</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:BO_K</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=117177242&amp;authToken=BO_K&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Customer Insight Manager</title>
+          <company>
+            <id>7001</id>
+            <name>Asda</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Marketing Manager - Market Research</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348223066285</timestamp>
+    <update-key>UNIU-c3266-5654857399865970688-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>q7e2Det1ql</id>
+          <first-name>Bryn</first-name>
+          <last-name>Stott</last-name>
+          <headline>Energy Placement at Tesco PLC</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_tm_nI-gVuHL0QOZFKwtWIK7s2ec0X4eFr2BdIlao1aifRyxbOePs5AsXG5Bhb0WIPSTeX9KUUKTY</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/q7e2Det1ql</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:9_wO</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=122052180&amp;authToken=9_wO&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Energy Placement</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348167114845</timestamp>
+    <update-key>UNIU-c3266-5654622722504802304-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>TLNq8ElPLl</id>
+          <first-name>Robyn</first-name>
+          <last-name>Figueira</last-name>
+          <headline>Assistant Buyer- Ladies Softs at Tesco</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/TLNq8ElPLl</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:Bpup</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=193200893&amp;authToken=Bpup&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Assistant Buyer- Ladies Softs</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348144251384</timestamp>
+    <update-key>UNIU-c3266-5654526826207264768-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>5S8lyEnt63</id>
+          <first-name>Lauren</first-name>
+          <last-name>Vallelly</last-name>
+          <headline>Footwear and Accessories Trainee Buyer</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_3rnHNp3iGhNnYJpl_1BBNxC-CirMy0pl_ACBNxi-g6XW_UIAS9QXV0BpuSKQ04jgh1N9U4lXDkqa</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/5S8lyEnt63</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:3BxD</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=94757865&amp;authToken=3BxD&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Footwear and Accessories Trainee Buyer</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348133705420</timestamp>
+    <update-key>UNIU-c3266-5654482593224093696-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>private</id>
+          <first-name>private</first-name>
+          <last-name>private</last-name>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Home-phone and Broadband Technical Support</title>
+          <company>
+            <id>2347</id>
+            <name>Logica</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Customer Service Manager</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348087399689</timestamp>
+    <update-key>UNIU-c3266-5654288372907143168-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>IWbkPniSp1</id>
+          <first-name>Carina</first-name>
+          <last-name>Harrison</last-name>
+          <headline>Trainee Buyer in UK Clothing at Tesco PLC</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_mv6VdJcOaE_Ep4Wea1ndds9h27FLy4Me2N-5dUNO1E1z_ymHGP99bRhrG3bV00Zk7nXX6pQ1NU-1</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/IWbkPniSp1</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:9smu</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=146350413&amp;authToken=9smu&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Cashier</title>
+          <company>
+            <name>Zara</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Trainee Buyer in UK Clothing</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348082428436</timestamp>
+    <update-key>UNIU-c3266-5654267521969184768-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>dPugEs2BfM</id>
+          <first-name>Emma</first-name>
+          <last-name>Fox</last-name>
+          <headline>Corporate Affairs at Tesco PLC</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_HAcsUH52_iDHpxeuE-qdUwv37CeHYpZuE9iLUw6AKXy4TZ72kcFnzIt0T7HcjRM8d-zkN2ZwoeGX</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/dPugEs2BfM</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:fOEF</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=82603844&amp;authToken=fOEF&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Corporate Affairs</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348079996322</timestamp>
+    <update-key>UNIU-c3266-5654257320935309312-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>C0c7awfPIK</id>
+          <first-name>Emma</first-name>
+          <last-name>Martin</last-name>
+          <headline>Graduate Food Buyer at Tesco PLC</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_Y7bJr-mZDtN_HRL1YuLorle4S-tfERN1pDPQrleZtNQ0vx_P-WBzYApn_0-rdpv0xu5F09Vw0t3-</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/C0c7awfPIK</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:uvTf</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=196084846&amp;authToken=uvTf&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Sales Negotiator</title>
+          <company>
+            <name>Barnfields Estate Agents</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Graduate Food Buyer</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348071752410</timestamp>
+    <update-key>UNIU-c3266-5654222743458033664-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>rK_1lwrWAT</id>
+          <first-name>Emily</first-name>
+          <last-name>Edbrooke</last-name>
+          <headline>Procurement Coordinator at Tesco PLC</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_H1YHLfQh6SeHPEpNo97ULuB-k7jelupNElEBLSF8UEdZmHIqkzmXwDPmE3gB-wjZdry9oov3wlkk</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/rK_1lwrWAT</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:tP5O</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=103157437&amp;authToken=tP5O&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Client Services Executive</title>
+          <company>
+            <name>Impact Design &amp; Marketing</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Procurement Coordinator</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347988228043</timestamp>
+    <update-key>UNIU-c3266-5653872416892399616-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>W8cJ0cqiOD</id>
+          <first-name>Zoe</first-name>
+          <last-name>Amos</last-name>
+          <headline>Telecoms Graduate Trainee at Tesco PLC</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_NArAmTr3pMjO--BbqKKGmih3yJsxt-bb99XmmG_T_xm7SnKF4chjhCc7tqV8AzQwv--fT5AyTvML</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/W8cJ0cqiOD</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:IfSm</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=178454197&amp;authToken=IfSm&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Bar Attendant</title>
+          <company>
+            <name>Hatfield College, Durham</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Telecoms Graduate Trainee</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347962475030</timestamp>
+    <update-key>UNIU-c3266-5653764400918560768-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>g8khCg06N7</id>
+          <first-name>Sara</first-name>
+          <last-name>Khan</last-name>
+          <headline>Manger at Tesco</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/g8khCg06N7</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:zDNc</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=201919211&amp;authToken=zDNc&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Manger</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347912343176</timestamp>
+    <update-key>UNIU-c3266-5653554132691189760-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>WkcXZ9rKvU</id>
+          <first-name>Adetola</first-name>
+          <last-name>Morgan</last-name>
+          <headline>Merchandise Assistant at Tesco PLC</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_-OwaAzKbB-c1SF3jrxRgAB3wcA3YfFKjKJxlABTZHBzmr_bgY4UGxcznJpTTuhlA1jWrOr1vjgQ7</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/WkcXZ9rKvU</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:1lTm</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=164422028&amp;authToken=1lTm&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Merchandise Assistant</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347793187531</timestamp>
+    <update-key>UNIU-c3266-5653054357675978752-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>pHWnJVulvt</id>
+          <first-name>Katie</first-name>
+          <last-name>Little</last-name>
+          <headline>Finance Graduate at Tesco PLC</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_gnYAT9KyR4nhl_QV0cpCTvQyJZ_GlhFV0qEmTvn86OB-mkrsAKmjfzGmcvij-F69yvyfm-XxpxsC</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/pHWnJVulvt</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:7J8X</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=87527778&amp;authToken=7J8X&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Finance Graduate</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347792623203</timestamp>
+    <update-key>UNIU-c3266-5653051990725365760-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>bhSsJBb1ft</id>
+          <first-name>Alison</first-name>
+          <last-name>Bell</last-name>
+          <headline>Technology Leadership Graduate at Tesco PLC</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_fXI2TMdSB4cnJ51sTho0TVwOvjCQJ61sSi0PTR4YEUnn6CXV_GRhfUuKUrGMs3-naFd-myEfipk2</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/bhSsJBb1ft</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:j_Z9</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=110357412&amp;authToken=j_Z9&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Bartender</title>
+          <company>
+            <name>Parklands Country Club</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Technology Leadership Graduate</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347648947080</timestamp>
+    <update-key>UNIU-c3266-5652449369387962368-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3266</id>
+        <name>Tesco PLC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>hNRMzPjHnv</id>
+          <first-name>Gemma</first-name>
+          <last-name>Bennett</last-name>
+          <headline>Trainee Buyer</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_-KgZflQKWsPyAD9X-NDwf1ilIxnOADBXKlWFf-83qJCaaW8kYnSNTtqfLt93tonH1PxQhvONH8OV</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/hNRMzPjHnv</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:vcC1</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=147914750&amp;authToken=vcC1&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Trainee Buyer UK Clothing</title>
+          <company>
+            <id>3266</id>
+            <name>Tesco PLC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+</updates>

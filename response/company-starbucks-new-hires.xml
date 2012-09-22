@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<updates total="2">
+  <update>
+    <timestamp>1348311200547</timestamp>
+    <update-key>UNIU-c2271-5655227061732651008-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2271</id>
+        <name>Starbucks</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>-ubTMMLL9B</id>
+          <first-name>Anna Paula</first-name>
+          <last-name>Sortino</last-name>
+          <headline>Material Analist Sênior na Starbucks</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_8GEYKgxmNPQ4MLn-aFWDK02aZ-rsJLc-GLY3K0aObNXE6Tht2XstOxsrn0K5sG9OT3e8xZKLuVS1</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/-ubTMMLL9B</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:XvIG</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=148975175&amp;authToken=XvIG&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Arquiteta de Incorporação</title>
+          <company>
+            <id>314924</id>
+            <name>Smart Decor - Fernanda Marques Arquitetos</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Material Analist Senior</title>
+          <company>
+            <id>2271</id>
+            <name>Starbucks</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348228939048</timestamp>
+    <update-key>UNIU-c2271-5654882032010919936-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2271</id>
+        <name>Starbucks</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>gDsV0f0Zar</id>
+          <first-name>Rick</first-name>
+          <last-name>Vrouwenvelder</last-name>
+          <headline>Barista at Starbucks</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_Wn8k2DklCxmbAs35d9GB27QDC4JbAJ35IlNR2mnSgYDBag9LLKKeCaG_uzMZtOhWevCsideApRlW</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/gDsV0f0Zar</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:-5nC</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=123907323&amp;authToken=-5nC&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Internship</title>
+          <company>
+            <id>547324</id>
+            <name>Lovink Enertech b.v.</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Barista</title>
+          <company>
+            <id>2271</id>
+            <name>Starbucks</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <num-likes>0</num-likes>
+  </update>
+</updates>

@@ -1,0 +1,1053 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<updates total="19">
+  <update>
+    <timestamp>1348341360577</timestamp>
+    <update-key>UNIU-c3046-5655353562088087552-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>osqzq-Y6mg</id>
+          <first-name>Cédric</first-name>
+          <last-name>Van Haecke</last-name>
+          <headline>Étudiant(e) (Haute Ecole Albert Jacquard)</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_3rnHNjT2C_6Zy0SlinBBNxKtC8rMy0pl_tCBNxi-g6XW_UIAS9QXV0BpuSKQ04jgh1N9U4lJOQ6a</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/osqzq-Y6mg</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:t0D0</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=201512993&amp;authToken=t0D0&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Etudiant Jobiste</title>
+          <company>
+            <name>CRA-W</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Etudiant Jobiste</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348177211544</timestamp>
+    <update-key>UNIU-c3046-5654665071142379520-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>22j8BFMgHI</id>
+          <first-name>Caroline</first-name>
+          <last-name>Lam</last-name>
+          <headline>Étudiant à Université de Technologie de Compiègne</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_H1YHLfQpeSVoPEpNo9gULSzpk2jelupNoBEBLSF8UEdZmHIqkzmXwDPmE3gB-wjZdry9ooMPTsKk</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/22j8BFMgHI</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:PpJl</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=167372533&amp;authToken=PpJl&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Stagiaire Qualité Produits Frais</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348066279559</timestamp>
+    <update-key>UNIU-c3046-5654199788669771777-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>A_Bk7wNEa1</id>
+          <first-name>Emerson Cesar</first-name>
+          <last-name>da silva</last-name>
+          <headline>Empreendedor Polishop</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/A_Bk7wNEa1</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:WRVX</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=86150276&amp;authToken=WRVX&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>tecnico em marketing</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348053093952</timestamp>
+    <update-key>UNIU-c3046-5654144484221394944-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>NMTAks3tcM</id>
+          <first-name>abraham</first-name>
+          <last-name>cano castro</last-name>
+          <headline>Director Gerente PONTE VELLA Centro Comercial y Ocio</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_xtJM_Nk7Egq7yuqJjnx6_cvKHxCDOfvJjrD6_cbrcsnj3wCM1NdvDB1O6AG-gHNzYlRbuKzbMbYu</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/NMTAks3tcM</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:Vz0v</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=102951100&amp;authToken=Vz0v&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Gerente</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347989209513</timestamp>
+    <update-key>UNIU-c3046-5653876533459181568-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>IYwsE5FTa6</id>
+          <first-name>Fabienne</first-name>
+          <last-name>Ernst</last-name>
+          <headline>Support EDI implementation at Carrefour Belgium</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_uMN4tOvoavLXmy6AaO-FtgnWmKlQ2y9Amj8btyNzl95n143lhxkqpphR8gAM7UcjSsn6gR6uvpPv</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/IYwsE5FTa6</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:SZgl</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=55695538&amp;authToken=SZgl&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Executive Assistant</title>
+          <company>
+            <id>417041</id>
+            <name>Management Centre Europe</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Support EDI implentation</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347988508962</timestamp>
+    <update-key>UNIU-c3046-5653873595143684096-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>kO_faUaeBq</id>
+          <first-name>Elsa</first-name>
+          <last-name>Oehy</last-name>
+          <headline>Responsable Qualité chez Carrefour</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/kO_faUaeBq</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:3Vdh</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=148046230&amp;authToken=3Vdh&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Responsable Qualité</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347833499101</timestamp>
+    <update-key>UNIU-c3046-5653223436667850753-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>cvuVYkLX_U</id>
+          <first-name>Astrid</first-name>
+          <last-name>GALY-DEJEAN</last-name>
+          <headline>Assistante Reporting chez Carrefour</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_fDcXEpVQGDXLk0DX7a9REYM6CwnoeyuXDWiUEYWcgDCVB4Uk_IFHXOjJuQ9zIUSHaazV5JR4KO95</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/cvuVYkLX_U</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:5NRI</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=159865406&amp;authToken=5NRI&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Assistante Reporting</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347823222896</timestamp>
+    <update-key>UNIU-c3046-5653180335140134912-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>4YObGZavRX</id>
+          <first-name>Laura</first-name>
+          <last-name>Gutierrez</last-name>
+          <headline>--Diseñadora gráfica textil</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_vJv4JCn9Dbx-DjoCcYcIJhCnDhRASYVCcOTbJ3A9-Qf3tVDGJ05qBT54iDUaaMRmNVB69Q_WeV8G</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/4YObGZavRX</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:OPDz</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=73081788&amp;authToken=OPDz&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Textil Graphics Designer</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347710245478</timestamp>
+    <update-key>UNIU-c3046-5652706473503887360-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>vd-y6dAMV6</id>
+          <first-name>Mariavittoria</first-name>
+          <last-name>Dimola</last-name>
+          <headline>Junior Category prima colazione at Carrefour</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_hTReAO7GkBqszf8Ah_VUAyx_ktlUJuAAGLfcAy2tUq5w6H6lubIkxpZyExAkswrj3CJnOROgviiM</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/vd-y6dAMV6</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:ih5m</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=110490329&amp;authToken=ih5m&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Junior Category prima colazione</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347583098412</timestamp>
+    <update-key>UNIU-c3046-5652173180043792384-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>aEuS1SS6xL</id>
+          <first-name>ORLANDO JOSÉ</first-name>
+          <last-name>MENDES</last-name>
+          <headline>Diretor de Loja (Operações) Carrefour</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_DBwsjZ5Ce-No0HNDDteLjVNSotb50wND7zxLjVvYzqPvhf_STlUnPs3KXxFsyuv32NWk-gI9wqwO</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/aEuS1SS6xL</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:PrTc</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=203520508&amp;authToken=PrTc&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Diretor Loja</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347552999169</timestamp>
+    <update-key>UNIU-c3046-5652046934681059328-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>aDjq6MiOaU</id>
+          <first-name>Anne-Alexandra</first-name>
+          <last-name>Lovichi</last-name>
+          <headline>Étudiant à Ecole centrale de Lyon</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_ZPIPyQz7qcYiYLLaZB4uyLQC4BEfyQLasc02yXkYFAY0_G-mqvRx-krK9sor0TXGMKdSP_ssh5Lo</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/aDjq6MiOaU</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:0oHK</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=163953869&amp;authToken=0oHK&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Stage d'exécution</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347546182180</timestamp>
+    <update-key>UNIU-c3046-5652018342140059649-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>lT_8JCVnec</id>
+          <first-name>Ellen Eriska</first-name>
+          <last-name>Priscilia</last-name>
+          <headline>Jr. Buyer at Carrefour Indonesia</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_3PuunxXlv6nVth0t_17Pnj8mvGlJK5Yt_NZ1npCaEk5d73W-Svy84y9hUfA61CxYhKmtMUpWL5Vh</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/lT_8JCVnec</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:SNYh</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=162418937&amp;authToken=SNYh&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Jr. Buyer</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>IInMNTXoUs</id>
+          <first-name>laercio</first-name>
+          <last-name>silva</last-name>
+          <headline>Empresario individual na L.A.S.TRANSPORTES EM GERAL-LTDA</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_VoW0f8UbRsS3HFvXZus8fiJJUxVTokqXZeg8fisMkJalzhikn2M1T_aBvtsYW_zHRdw3hketPpwf</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1347481082723</timestamp>
+    <update-key>UNIU-c3046-5651745295235567616-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>PevMHBo5X8</id>
+          <first-name>Iacopo</first-name>
+          <last-name>Gorga</last-name>
+          <headline>Stock Planner presso Carrefour</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_FIUn3Wue6U0noaNR5fRd3I2boZSveSkR5o7d3oxczOM5BdPUwDws7EIJXvDEIE5c6HMeaS39Q9z9</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/PevMHBo5X8</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:URq3</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=158542584&amp;authToken=URq3&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Stock Planner</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>IInMNTXoUs</id>
+          <first-name>laercio</first-name>
+          <last-name>silva</last-name>
+          <headline>Empresario individual na L.A.S.TRANSPORTES EM GERAL-LTDA</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_VoW0f8UbRsS3HFvXZus8fiJJUxVTokqXZeg8fisMkJalzhikn2M1T_aBvtsYW_zHRdw3hketPpwf</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1347476617102</timestamp>
+    <update-key>UNIU-c3046-5651726565067718656-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>XyBNayzF4y</id>
+          <first-name>Hadyatou</first-name>
+          <last-name>Barry</last-name>
+          <headline>Stage, analyste statistiques chez Carrefour</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/XyBNayzF4y</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:H4co</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=150069098&amp;authToken=H4co&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Stage, analyste statistiques</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347476389223</timestamp>
+    <update-key>UNIU-c3046-5651725609265553408-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>ZsbxgxYkZv</id>
+          <first-name>Sandra Marcela</first-name>
+          <last-name>Hernandez Gonzalez</last-name>
+          <headline>Ingeniera de Alimentos</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_FJCU17zRS-MM_M9tLjGX12iofPgzTV9t54nX12tErnWLYY3-w0tBgu6k3jjoGjcY6V85pw8cL-67</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/ZsbxgxYkZv</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:Rhse</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=84679555&amp;authToken=Rhse&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Lider  de Calidad</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>2</num-likes>
+    <likes total="2">
+      <like>
+        <person>
+          <id>uxXVMXt3hd</id>
+          <first-name>Francisco</first-name>
+          <last-name>Carvalho</last-name>
+          <headline>Controlo de Gestão GeoStar</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_iIoQnZS6XkvMeHmYiSJJnR2Q6X39eHmY37OJnRxUJCz6BuMO7DVE4UIvHdTdIf7tGHHZMyD0Xn9A</picture-url>
+        </person>
+      </like>
+      <like>
+        <person>
+          <id>IInMNTXoUs</id>
+          <first-name>laercio</first-name>
+          <last-name>silva</last-name>
+          <headline>Empresario individual na L.A.S.TRANSPORTES EM GERAL-LTDA</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_VoW0f8UbRsS3HFvXZus8fiJJUxVTokqXZeg8fisMkJalzhikn2M1T_aBvtsYW_zHRdw3hketPpwf</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1347454956935</timestamp>
+    <update-key>UNIU-c3046-5651635715751018496-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>wYAnDbs9ht</id>
+          <first-name>Hüseyin</first-name>
+          <last-name>Dolapçı</last-name>
+          <headline>Elève-ingénieur, MINES ParisTech</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/wYAnDbs9ht</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:4DL_</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=147102243&amp;authToken=4DL_&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Chercheur</title>
+          <company>
+            <id>1347363</id>
+            <name>ARMINES</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Direction des Actifs</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347395568271</timestamp>
+    <update-key>UNIU-c3046-5651386621627478016-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>e2Pib43h0t</id>
+          <first-name>Jules</first-name>
+          <last-name>Grossi</last-name>
+          <headline>PMO Manager chez Carrefour</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/e2Pib43h0t</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:6jNP</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=81905674&amp;authToken=6jNP&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Project Management Office</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>IInMNTXoUs</id>
+          <first-name>laercio</first-name>
+          <last-name>silva</last-name>
+          <headline>Empresario individual na L.A.S.TRANSPORTES EM GERAL-LTDA</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_VoW0f8UbRsS3HFvXZus8fiJJUxVTokqXZeg8fisMkJalzhikn2M1T_aBvtsYW_zHRdw3hketPpwf</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1347389659014</timestamp>
+    <update-key>UNIU-c3046-5651361836453351424-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>TxJiK0aiaD</id>
+          <first-name>Maria Mercedes</first-name>
+          <last-name>Sodré Serra Silveira</last-name>
+          <headline>Secretária Executiva Bilingue na Carrefour</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_e0hbvuzUCTV6_USP6R34vain850d342Pogq4vakwx8IJOyR1XJrwRmr5mIx9C0DxWpGMsWVJUAeQ</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/TxJiK0aiaD</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:Rfh-</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=76750719&amp;authToken=Rfh-&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Secretária Executiva Bilingue</title>
+          <company>
+            <name>Unilever Brasil</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Secretária Executiva Bilingue</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>IInMNTXoUs</id>
+          <first-name>laercio</first-name>
+          <last-name>silva</last-name>
+          <headline>Empresario individual na L.A.S.TRANSPORTES EM GERAL-LTDA</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_VoW0f8UbRsS3HFvXZus8fiJJUxVTokqXZeg8fisMkJalzhikn2M1T_aBvtsYW_zHRdw3hketPpwf</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1347217018871</timestamp>
+    <update-key>UNIU-c3046-5650637731152289792-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>3046</id>
+        <name>Carrefour</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>L5H1hZkpBO</id>
+          <first-name>Shota</first-name>
+          <last-name>Giorgadze</last-name>
+          <headline>Deputy Chief Accountant at Carrefour</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_Lw2NlI2zWlV4FDQpFefwleSzINf9LeFpFf4IlexHq-R6V2ryWSpZ0HI6LM7dQ76rXeaEYfS1dY-H</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/L5H1hZkpBO</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:hjYq</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=139792140&amp;authToken=hjYq&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Senior associate, Finance</title>
+          <company>
+            <name>Openrevolution Georgia - Mobipay</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Deputy Chief Accountant</title>
+          <company>
+            <id>3046</id>
+            <name>Carrefour</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>IInMNTXoUs</id>
+          <first-name>laercio</first-name>
+          <last-name>silva</last-name>
+          <headline>Empresario individual na L.A.S.TRANSPORTES EM GERAL-LTDA</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_VoW0f8UbRsS3HFvXZus8fiJJUxVTokqXZeg8fisMkJalzhikn2M1T_aBvtsYW_zHRdw3hketPpwf</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+</updates>

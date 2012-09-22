@@ -1,0 +1,582 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<updates total="11">
+  <update>
+    <timestamp>1348264602551</timestamp>
+    <update-key>UNIU-c164756-5655031615596810240-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>164756</id>
+        <name>Loblaw Companies Limited</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>GcciYb_NrD</id>
+          <first-name>Dwight</first-name>
+          <last-name>Schiestel</last-name>
+          <headline>Supply Chain Analyst - Produce at Loblaw Companies Limited</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_HAcsUd9ufLjLOMeuozvLUEkf73eHYpZuEriLUw6AKXy4TZ72kcFnzIt0T7HcjRM8d-zkN2qIr6vX</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/GcciYb_NrD</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:s6-R</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=75036724&amp;authToken=s6-R&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Production Planner</title>
+          <company>
+            <name>Hammond Manufacturing</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Supply Chain Analyst - Produce</title>
+          <company>
+            <id>164756</id>
+            <name>Loblaw Companies Limited</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348240150259</timestamp>
+    <update-key>UNIU-c164756-5654929055233892352-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>164756</id>
+        <name>Loblaw Companies Limited</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>4fFE-OjMr8</id>
+          <first-name>David</first-name>
+          <last-name>Peace</last-name>
+          <headline>Customer Service</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_u1nHT0n884Q50s8nuc6UTyz2Cj-Ej0KnmBCBTyklgU6sGUb9hzQXfprxurtvY4lsSrN9mRsu8Vrr</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/4fFE-OjMr8</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:FRlE</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=167102900&amp;authToken=FRlE&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Produce Assistant</title>
+          <company>
+            <id>164756</id>
+            <name>Loblaw Companies Limited</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348112727156</timestamp>
+    <update-key>UNIU-c164756-5654394604020047872-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>164756</id>
+        <name>Loblaw Companies Limited</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>wiSkmDeckI</id>
+          <first-name>Soroush</first-name>
+          <last-name>Torkian-Valashani</last-name>
+          <headline>Potential Future Doctor</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_DBwsjMB76-vXjaLD79ddjR6Ootb50wND7KxLjVvYzqPvhf_STlUnPs3KXxFsyuv32NWk-gIrCm4O</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/wiSkmDeckI</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:R0oW</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=187397489&amp;authToken=R0oW&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Orientation Leader - Faculty of Science</title>
+          <company>
+            <name>Orientation Team - TOC Faculty TOC</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Pharmacy Clerk</title>
+          <company>
+            <id>164756</id>
+            <name>Loblaw Companies Limited</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347679310344</timestamp>
+    <update-key>UNIU-c164756-5652576722143420416-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>164756</id>
+        <name>Loblaw Companies Limited</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>private</id>
+          <first-name>private</first-name>
+          <last-name>private</last-name>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Recruiter Intern (Contract)</title>
+          <company>
+            <id>164756</id>
+            <name>Loblaw Companies Limited</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347499742336</timestamp>
+    <update-key>UNIU-c164756-5651823559341780992-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>164756</id>
+        <name>Loblaw Companies Limited</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>ysvAmGhjov</id>
+          <first-name>Giovana</first-name>
+          <last-name>Pinheiro Chichito</last-name>
+          <headline>Internal Communications intern at Loblaw Companies Limited</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_hqAXNO1jC_b9l02AGP_cNyCKCLlc1y2AC1LUNylCgh5F24Rlu-3HVpLuuwAHKUDj3c1VURfdFkJU</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/ysvAmGhjov</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:94HT</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=112402500&amp;authToken=94HT&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Internal Communications intern</title>
+          <company>
+            <id>164756</id>
+            <name>Loblaw Companies Limited</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347486147592</timestamp>
+    <update-key>UNIU-c164756-5651766538844270592-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>164756</id>
+        <name>Loblaw Companies Limited</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>-9DCeg5YsL</id>
+          <first-name>Ijeoma</first-name>
+          <last-name>Onyegbula</last-name>
+          <headline>Director, Pharmacy Operations at Loblaw Companies Limited</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_cDHk-h0HF9UPoDlrBfER-CSVFzxxHITrvopR-_7s4Pw7c7nKUI4eyiRNd408w28p9aosjXgXMefe</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/-9DCeg5YsL</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:0elf</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=126306877&amp;authToken=0elf&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Director, Pharmacy Operations</title>
+          <company>
+            <id>164756</id>
+            <name>Loblaw Companies Limited</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347417020354</timestamp>
+    <update-key>UNIU-c164756-5651476598189223936-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>164756</id>
+        <name>Loblaw Companies Limited</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>kAQmXeluRl</id>
+          <first-name>Rajarshi</first-name>
+          <last-name>Patel</last-name>
+          <headline>Night crew at Loblaw Companies Limited</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_Ow-uHBMJpD3mFBxopmKPHqpNrfLG5lOopf61HqVLfWA-szdEtSG8QNmIOG5j6n060ertFPXfQBJt</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/kAQmXeluRl</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:V9le</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=173444959&amp;authToken=V9le&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Assistant Supervisor (Joe Clothing)</title>
+          <company>
+            <id>164756</id>
+            <name>Loblaw Companies Limited</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347276286509</timestamp>
+    <update-key>UNIU-c164756-5650886317660180480-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>164756</id>
+        <name>Loblaw Companies Limited</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>-TAhc51sYH</id>
+          <first-name>Kaitlin</first-name>
+          <last-name>Nay</last-name>
+          <headline>Labour Relations Intern at Loblaw Companies Limited</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_ukJ160O8Zm6bs8ezaGo26gJi4w-Q4ieza_Du6y4rFm6nFbxvhCd0epuO9LtMUXWJSbRDdRQojHsD</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/-TAhc51sYH</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:QV8r</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=97149562&amp;authToken=QV8r&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Teaching Assistant</title>
+          <company>
+            <id>165799</id>
+            <name>Ryerson University</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Labour Relations Intern</title>
+          <company>
+            <id>164756</id>
+            <name>Loblaw Companies Limited</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>pLXnExLnal</id>
+          <first-name>Jean-Francois</first-name>
+          <last-name>Brodeur</last-name>
+          <headline>Gérant Ressources humaines et relations de travail chez Loblaw Companies Limited</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_N-oHBQi2I8et0eDpnPZRBLTOF3f00eyp9zOBBXGO4bRfh2wy4qVXJknrd27hy7grvAH9Z_K-lU-y</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1346787751697</timestamp>
+    <update-key>UNIU-c164756-5648837254152470528-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>164756</id>
+        <name>Loblaw Companies Limited</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>LEkjh03kyH</id>
+          <first-name>Aarushi</first-name>
+          <last-name>Shah</last-name>
+          <headline>Pharmacy Cashier at Loblaw Companies Limited</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_OSEuUBWkcTl3d_02poMPUqU4vCLad5Y2pdY1Uqo4EXAO93Wutws8zNY9U75AECxh0metNPZKfEOm</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/LEkjh03kyH</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:UccU</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=103814620&amp;authToken=UccU&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Pharmacy Cashier</title>
+          <company>
+            <id>164756</id>
+            <name>Loblaw Companies Limited</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>N23vomrWAl</id>
+          <first-name>Joseph</first-name>
+          <last-name>Chater</last-name>
+          <headline>owner at moments in time photography</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_FEYCE7MZqIp5LQjk5IpjE2MJNwUvb8Dk5SEjE20Qwm75ZXVXwummXuwesLREXb2e6Wyy5wDB5PeG</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1346609957747</timestamp>
+    <update-key>UNIU-c164756-5648091532272623616-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>164756</id>
+        <name>Loblaw Companies Limited</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>82BAJz9IMh</id>
+          <first-name>Mark</first-name>
+          <last-name>Hoensch</last-name>
+          <headline>IT Business Analyst</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_OurBLnsUmaFOL4w4pm3HLqEbuo8aFOo4pHXHLqEbPuNO4sjZtEhUwNOWCFhAkJIq07-WoP43yyPg</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/82BAJz9IMh</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:vAYW</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=174175019&amp;authToken=vAYW&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>IT Business Analyst</title>
+          <company>
+            <id>162883</id>
+            <name>Canadian Tire</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Business Systems Analyst - Consultant</title>
+          <company>
+            <id>164756</id>
+            <name>Loblaw Companies Limited</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1346214887038</timestamp>
+    <update-key>UNIU-c164756-5646434485919563776-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>164756</id>
+        <name>Loblaw Companies Limited</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>amjJp5qB65</id>
+          <first-name>Jagdesh</first-name>
+          <last-name>Bissoondyal</last-name>
+          <headline>Business Admin. co-op student at Humber College</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_5R4EH7PQQojsaHOQbJZMH2lF6fZBaSOQbx2zHDrnJWubAdd6djHQQSkZHG4eSE0Ek4VNFEaX5ESw</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/amjJp5qB65</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:pr9Y</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=168462239&amp;authToken=pr9Y&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Sales Associate, Photo Studio, Cash</title>
+          <company>
+            <id>164756</id>
+            <name>Loblaw Companies Limited</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+</updates>

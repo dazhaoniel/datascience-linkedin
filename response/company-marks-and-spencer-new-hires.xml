@@ -1,0 +1,1024 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<updates total="19">
+  <update>
+    <timestamp>1348241203462</timestamp>
+    <update-key>UNIU-c4558-5654933472691642368-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>HC0BOUOXhv</id>
+          <first-name>Matthew</first-name>
+          <last-name>Broadbent</last-name>
+          <headline>Vendor Managed Implant at Marks and Spencer</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_u_fFG4WrbVz5VorsmXpZGsMyLJGE9WTsakRZGse7Vx9sdDnVh50IuVpTIqCvvm8nS8DJDj9N0d5M</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/HC0BOUOXhv</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:dYSJ</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=158089087&amp;authToken=dYSJ&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Sales Development Manager (Vendor Managed Implant)</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348222781085</timestamp>
+    <update-key>UNIU-c4558-5654856203654664192-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>hrUVD1XlTg</id>
+          <first-name>Adit</first-name>
+          <last-name>Sheth</last-name>
+          <headline>Supply Chain Strategy at Marks and Spencer</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/hrUVD1XlTg</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:qZfi</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=34178119&amp;authToken=qZfi&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Supply Chain Strategy</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348147722138</timestamp>
+    <update-key>UNIU-c4558-5654541383596253184-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>OsfYvyjzBf</id>
+          <first-name>Elena</first-name>
+          <last-name>Bosheska</last-name>
+          <headline>Retail Management Trainee at Marks and Spencer</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/OsfYvyjzBf</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:fEFB</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=146199993&amp;authToken=fEFB&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Business Development Intern</title>
+          <company>
+            <id>1016</id>
+            <name>GE Healthcare</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Retail Management Trainee</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348052272231</timestamp>
+    <update-key>UNIU-c4558-5654141037673734144-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>mHBefirBbF</id>
+          <first-name>Hannah</first-name>
+          <last-name>Symonds</last-name>
+          <headline>Attended The Arts Institute at Bournemouth</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_hTReA0yT6nzZREKAG5HBAyg7ktlUJuAAGLfcAy2tUq5w6H6lubIkxpZyExAkswrj3CJnOR-PMNKM</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/mHBefirBbF</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:auCW</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=189229667&amp;authToken=auCW&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Sales Support</title>
+          <company>
+            <id>483553</id>
+            <name>The PRINTING PLACE ltd...</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>General Assistant</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348034316319</timestamp>
+    <update-key>UNIU-c4558-5654065725136977920-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>BMFCaTHBTp</id>
+          <first-name>Zoe</first-name>
+          <last-name>Tate</last-name>
+          <headline>Advisor at Marks and Spencer</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_fl6WHR9f32re0ROo7PQnHZ5_TuLo0ZxoDz-9HZ5OYoAVhpeE_B95Q4Ar7T5zyxY6atXBF0R7EZiB</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/BMFCaTHBTp</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:PKDO</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=141806915&amp;authToken=PKDO&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Advisor</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347919080842</timestamp>
+    <update-key>UNIU-c4558-5653582392510648320-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>6k9fF_6Uuv</id>
+          <first-name>Liam</first-name>
+          <last-name>Lodge</last-name>
+          <headline>Community Manager at Marks and Spencer</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_xjj5WPbF6a1DhuOL0y79WAvUXoNSCu7LgMdVWA6FRu8ggHZ51RDWFltdoFqt3wmdYO0UQn4btUDs</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/6k9fF_6Uuv</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:KiG6</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=167015608&amp;authToken=KiG6&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Social Media &amp; Marketing</title>
+          <company>
+            <id>228089</id>
+            <name>oki-ni limited</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Community Manager</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347912997071</timestamp>
+    <update-key>UNIU-c4558-5653556875308830720-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>hMqno2T2Yn</id>
+          <first-name>Adrian</first-name>
+          <last-name>Campbell</last-name>
+          <headline>DC Pensions &amp; Auto Enrolment</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/hMqno2T2Yn</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:uloW</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=143074187&amp;authToken=uloW&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Client Service Manager</title>
+          <company>
+            <name>Mercer</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>DC Pensions &amp; Auto Enrolment</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347823935837</timestamp>
+    <update-key>UNIU-c4558-5653183325473341440-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>u6A3658YDN</id>
+          <first-name>Zoë</first-name>
+          <last-name>Greening</last-name>
+          <headline>Student at University of the Arts London</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_OPQTE-zi17huYPuky-XtEKNY1wcmyvukyAtOElFO2DiY_AUXtvnSXAPrjQBl0tSe0Kkx59vHapLX</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/u6A3658YDN</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:tlci</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=146345581&amp;authToken=tlci&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Lingerie Design Assistant</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347793511229</timestamp>
+    <update-key>UNIU-c4558-5653055715422519296-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>X1X4hayNje</id>
+          <first-name>Kathryn</first-name>
+          <last-name>Bath</last-name>
+          <headline>E-Commerce &amp; Multichannel at Marks and Spencer</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/X1X4hayNje</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:Wu-6</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=102272140&amp;authToken=Wu-6&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>E-Commerce &amp; Multichannel Retail Graduate</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347537360676</timestamp>
+    <update-key>UNIU-c4558-5651981342074736640-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>JTZ5w3nNvW</id>
+          <first-name>Laura</first-name>
+          <last-name>Hoyland</last-name>
+          <headline>Procurement Buyer at Marks and Spencer</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_lxZqPrPFeBXOmuBPAOowPPKee9PY2u6PPRuwPP3zBKbm1HA1jMe4j1vRQR1T7wFxKysoyq0-sepQ</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/JTZ5w3nNvW</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:7DMi</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=146040276&amp;authToken=7DMi&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Procurement Buyer</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>2</num-likes>
+    <likes total="2">
+      <like>
+        <person>
+          <id>4Bvp_PqawK</id>
+          <first-name>J.</first-name>
+          <last-name>Lopes</last-name>
+          <headline>Comercial na FSM Ind.Conf.SA</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_2weeFyW56EbQ5dyBuoWBF0oMkmrbWEjBmdycF0VJUHXBnaoc8SZkWxmcE_KZoSpUDeEnHZeS0ux8</picture-url>
+        </person>
+      </like>
+      <like>
+        <person>
+          <id>0WemqlLGCU</id>
+          <first-name>Pravind</first-name>
+          <last-name>Protex</last-name>
+          <headline>In sales at BAI</headline>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1347451733472</timestamp>
+    <update-key>UNIU-c4558-5651622195550490624-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>TMVSa1laWY</id>
+          <first-name>Claire</first-name>
+          <last-name>McCormack</last-name>
+          <headline>Merchandising Admin Assistant at Marks and Spencer</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_-vl8EnPKpWrjtBmHr-tPEqnGrHQtKlmHKc50EqACfmtC7zMeYPTuXN5uOL6S1n7X1nPY5PfzDKaY</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/TMVSa1laWY</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:Clrc</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=163860715&amp;authToken=Clrc&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Merchandising Admin Assistant</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347304439248</timestamp>
+    <update-key>UNIU-c4558-5651004398801780736-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>9gS3b1wkVr</id>
+          <first-name>Nicola</first-name>
+          <last-name>Brand</last-name>
+          <headline>Children's Book Illustration at Elizabeth Ramsey</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_QQ0tAd2-4nRqU8FjkhpDAEj8ZNS9BiFjXXIDAE0hb-M6ebrgo8fYxowanMDdqX6Ab5juODDEKumT</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/9gS3b1wkVr</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:oAev</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=196564905&amp;authToken=oAev&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Visual Merchandiser</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>2</num-likes>
+    <likes total="2">
+      <like>
+        <person>
+          <id>JzAdmb_u-j</id>
+          <first-name>Carlos</first-name>
+          <last-name>Lumiere</last-name>
+          <headline>Owner at Lumiere London</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_ePvupfQfKcmkOl1iHzk0pucCr-Zdp-tiEcT1pSkPfNuJin5_Xv58tDrgO049xzPfWKBt1oVpi-ub</picture-url>
+        </person>
+      </like>
+      <like>
+        <person>
+          <id>Qyiq7wFEkW</id>
+          <first-name>Mahbub</first-name>
+          <last-name>Alam</last-name>
+          <headline>Quality controller at Aquarelle bd ltd</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_FfbQYo7HhNmcIOPSLWnvYe0UhzoJIUGS5SPJYWmR0POdq0zDwdBErdVza4E6eyiT625ZlaKj0GpR</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1347224900576</timestamp>
+    <update-key>UNIU-c4558-5650670789645565952-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>BsV8GWUyF5</id>
+          <first-name>Declan</first-name>
+          <last-name>Watson</last-name>
+          <headline>IT Graduate Scheme at Marks and Spencer</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0__gnH4ZKoG3tUi0puDMXR4VA6CikUf0pu30CB4Rhqg6KwrUI2fUQXnUNVuSXku4j8CYN9cyOiBXyX</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/BsV8GWUyF5</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:tPJY</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=70816270&amp;authToken=tPJY&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>IT Graduate Scheme</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347198635102</timestamp>
+    <update-key>UNIU-c4558-5650560624036429824-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>u3aiIplA3u</id>
+          <first-name>Paul</first-name>
+          <last-name>Loughlin</last-name>
+          <headline>Finance and Operations Manager at Marks and Spencer</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_UciCe3Bpt7SCrKSbz-Pge_9gtdVG-zSbMPcje_92S7a-DlsFcA1m6iCGyXsjl-uwsq3ybXH-b4tL</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/u3aiIplA3u</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:CtZT</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=80239209&amp;authToken=CtZT&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Finance and Operations Manager</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347125443615</timestamp>
+    <update-key>UNIU-c4558-5650253636706525184-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>VEs6eeRZGh</id>
+          <first-name>Danielle</first-name>
+          <last-name>Werner</last-name>
+          <headline>HCPC-registered occupational therapist with interest and experience in paediatrics</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_uMN4t0b6CAkduy6AmO-ItynzmKlQ2y9Amj8btyNzl95n143lhxkqpphR8gAM7UcjSsn6gRonC76v</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/VEs6eeRZGh</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:CA4C</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=94839167&amp;authToken=CA4C&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Administrator</title>
+          <company>
+            <name>Newbury Hall</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Customer Service Assistant</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347102348346</timestamp>
+    <update-key>UNIU-c4558-5650156768127377408-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>feAmiVYSOY</id>
+          <first-name>Louisa</first-name>
+          <last-name>Payne</last-name>
+          <headline>Graduate Womenswear Designer at Marks and Spencer</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_5P24ioKYW4sUye64LK0wiWA0IpuRKe94bc4bie3aqsZI723ZdvpqSHvhLA2X17cqkKa62f02PSrP</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/feAmiVYSOY</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:t8a7</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=161035595&amp;authToken=t8a7&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Assistant Buyer</title>
+          <company>
+            <id>2614</id>
+            <name>Avon</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Graduate Womenswear Designer</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347050017500</timestamp>
+    <update-key>UNIU-c4558-5649937276638097408-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>fJ9UdZoGRu</id>
+          <first-name>Jessica</first-name>
+          <last-name>Preece</last-name>
+          <headline>Graduate Lingerie Designer at Marks and Spencer</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_V24ZqXIXI5s_EmoyZdewqQMII8aSoDUyZm2FqQEzq5VgzWupnoHNs6ORLamtWosKRfVQR3Z5CzCv</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/fJ9UdZoGRu</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:mXIs</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=142153811&amp;authToken=mXIs&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Lingerie Design Graduate Scheme</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1346963032430</timestamp>
+    <update-key>UNIU-c4558-5649572434819444736-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>iuVorYKBOs</id>
+          <first-name>camilla</first-name>
+          <last-name>coletti</last-name>
+          <headline>Design assistant Woman Casualwear at Marks and Spencer</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/iuVorYKBOs</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:6B88</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=181155122&amp;authToken=6B88&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Design assistant Woman Casualwear</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1346962804912</timestamp>
+    <update-key>UNIU-c4558-5649571480581722112-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4558</id>
+        <name>Marks and Spencer</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>r8A4NlIht6</id>
+          <first-name>Sam</first-name>
+          <last-name>Wicks</last-name>
+          <headline>Retail Manager at Marks and Spencer</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_u1nHTOc2CynHjs8naPBUTyQuCj-Ej0KnmBCBTyklgU6sGUb9hzQXfprxurtvY4lsSrN9mRs9K8hr</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/r8A4NlIht6</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:ssyh</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=153529687&amp;authToken=ssyh&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Sales Assistant and Baker</title>
+          <company>
+            <name>Proper Pasty Company</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Retail Manager</title>
+          <company>
+            <id>4558</id>
+            <name>Marks and Spencer</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+</updates>

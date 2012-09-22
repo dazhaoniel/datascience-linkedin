@@ -1,0 +1,555 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<updates total="10">
+  <update>
+    <timestamp>1348327420836</timestamp>
+    <update-key>UNIU-c1534-5655295094572474368-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1534</id>
+        <name>The Home Depot</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>yQWujjOyjt</id>
+          <first-name>James 'Skip'</first-name>
+          <last-name>McElligott</last-name>
+          <headline>Hardware Technical Support at The Home Depot</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_eOkdZanoa_7ISJa3Ex5VZSb5GiRd7sO3EsKnZSXJj5fJKOdTX4NL9DKc2aU92g0DWjQcBosmMyL5</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/yQWujjOyjt</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:yMgr</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=69173402&amp;authToken=yMgr&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Hardware Technical Support</title>
+          <company>
+            <id>1534</id>
+            <name>The Home Depot</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348229786946</timestamp>
+    <update-key>UNIU-c1534-5654885588344516608-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1534</id>
+        <name>The Home Depot</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>pZwm_E00Mp</id>
+          <first-name>Rachel</first-name>
+          <last-name>Lawrence</last-name>
+          <headline>Recent Graduate actively searching for a position</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_fDcXEps5mehXe0DXDwqcExowCwnoeyuXDWiUEYWcgDCVB4Uk_IFHXOjJuQ9zIUSHaazV5JUHOG65</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/pZwm_E00Mp</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:dKm4</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=165838202&amp;authToken=dKm4&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Sales Associate</title>
+          <company>
+            <id>1534</id>
+            <name>The Home Depot</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348188820455</timestamp>
+    <update-key>UNIU-c1534-5654713762431635456-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1534</id>
+        <name>The Home Depot</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>CsCuMUncVI</id>
+          <first-name>Karina</first-name>
+          <last-name>Pineda</last-name>
+          <headline>Intern at Ncredible Entertainment</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_5R4EH7AWXmjc2HxQFJJMHD856fZBaSOQFM2zHDrnJWubAdd6djHQQSkZHG4eSE0Ek4VNFEGiHlHw</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/CsCuMUncVI</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:VmGT</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=187940451&amp;authToken=VmGT&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Cashier</title>
+          <company>
+            <id>1534</id>
+            <name>The Home Depot</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348026244750</timestamp>
+    <update-key>UNIU-c1534-5654031870510264320-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1534</id>
+        <name>The Home Depot</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>FoONN2YlOb</id>
+          <first-name>James</first-name>
+          <last-name>Cain</last-name>
+          <headline>Junior Business Analyst at The Home Depot</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_upscWJGwIu-o27oduO4eWUNedWXou7wdmZmeWsLq9frVPIyWhVERFVlVFkkzfeELS0ZdQjUYWGak</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/FoONN2YlOb</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:TMRu</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=82048832&amp;authToken=TMRu&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Graduate Consultant</title>
+          <company>
+            <name>WFU Athletics</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Junior Business Analyst</title>
+          <company>
+            <id>1534</id>
+            <name>The Home Depot</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>KeBr74BHQ9</id>
+          <first-name>Cynthia</first-name>
+          <last-name>McCrea</last-name>
+          <headline>Seeking full-time career opportunity! Willing to Relocate!</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_rVO-LKhsUEqT83oqYODDL1cLRorlh3oqtjoSL1KLXuXT05jNypaOwPXIzFKm_6I4AJp2oNaOn1YF</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1348015663135</timestamp>
+    <update-key>UNIU-c1534-5653987487991746560-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1534</id>
+        <name>The Home Depot</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>n5aECbU-UG</id>
+          <first-name>Anthony</first-name>
+          <last-name>Bennett</last-name>
+          <headline>Sales Associate Buidling and Lumber at The Home Depot</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_FIUn3WxI6sZnoSNRFudd3ogwoZSveSkRL77d3oxczOM5BdPUwDws7EIJXvDEIE5c6HMeaSDc6Uz9</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/n5aECbU-UG</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:NwjL</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=161373708&amp;authToken=NwjL&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Security Guard</title>
+          <company>
+            <id>718985</id>
+            <name>Platinum Security</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Sales Associate Buidling and Lumber</title>
+          <company>
+            <id>1534</id>
+            <name>The Home Depot</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>KeBr74BHQ9</id>
+          <first-name>Cynthia</first-name>
+          <last-name>McCrea</last-name>
+          <headline>Seeking full-time career opportunity! Willing to Relocate!</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_rVO-LKhsUEqT83oqYODDL1cLRorlh3oqtjoSL1KLXuXT05jNypaOwPXIzFKm_6I4AJp2oNaOn1YF</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1347972021925</timestamp>
+    <update-key>UNIU-c1534-5653804443485868032-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1534</id>
+        <name>The Home Depot</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>ct0TRab5vO</id>
+          <first-name>Roger</first-name>
+          <last-name>Zorn</last-name>
+          <headline>Supervisor, Digital Content at Home Decorators Collection / Home Depot</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/ct0TRab5vO</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:ychn</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=9084346&amp;authToken=ychn&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Supervisor, Digital Content Management</title>
+          <company>
+            <id>1534</id>
+            <name>The Home Depot</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347661408368</timestamp>
+    <update-key>UNIU-c1534-5652501635805507584-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1534</id>
+        <name>The Home Depot</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>MvuGgA7jxz</id>
+          <first-name>Kevin</first-name>
+          <last-name>Korngold, MBA, GWCBA</last-name>
+          <headline>Junior Business Analyst at The Home Depot</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_FfbQYIxdGrfRF4-SbDcvYeu6hzoJIUGSLwPJYWmR0POdq0zDwdBErdVza4E6eyiT625ZlarknZVR</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/MvuGgA7jxz</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:By_v</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=161233663&amp;authToken=By_v&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Junior Business Analyst</title>
+          <company>
+            <id>1534</id>
+            <name>The Home Depot</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347652444587</timestamp>
+    <update-key>UNIU-c1534-5652464038999777280-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1534</id>
+        <name>The Home Depot</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>vWXf8-Kcws</id>
+          <first-name>Karen</first-name>
+          <last-name>Davis</last-name>
+          <headline>Specialty Sales Associate-Appliances at The Home Depot</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_VoW0fTMwJy28oC5XNaE2fiUbUpVTokqXZDg8fisMkJalzhikn2M1T_aBvtsYW_zHRdw3hkks1Cof</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/vWXf8-Kcws</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:-Qd6</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=138111915&amp;authToken=-Qd6&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Specialty Sales Associate-Appliances</title>
+          <company>
+            <id>1534</id>
+            <name>The Home Depot</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>pdRJ-TMgdE</id>
+          <first-name>Patricia Anne</first-name>
+          <last-name>Johnson, PM,CTM,JP</last-name>
+          <headline>Patricia Anne Johnson - A Small Business Consultant &quot;ensuring a productive day&quot;</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_IdV5b2sbwdWXwIY9wIJVbmIBbIxLImf9WwaVb7ZBZSwzqo4nbfoWdf2MW60VeWaVoo4UeHoYO78O</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1347597053947</timestamp>
+    <update-key>UNIU-c1534-5652231713808470017-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1534</id>
+        <name>The Home Depot</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>zkLaDAIZDl</id>
+          <first-name>Craig</first-name>
+          <last-name>LeMay</last-name>
+          <headline>Part-Time Associate at The Home Depot</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_y9lKkKNPOmL7rl4BpBCfk15lpdrhKlHBON5fk1zCi7Xr7z0crrTyoPTu-XK01ndUgzPmwNFdCC9t</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/zkLaDAIZDl</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:FCRc</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=104115039&amp;authToken=FCRc&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>IT/Art Intern</title>
+          <company>
+            <name>Admirable Wishes LLC</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Part-Time Associate</title>
+          <company>
+            <id>1534</id>
+            <name>The Home Depot</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347503607500</timestamp>
+    <update-key>UNIU-c1534-5651839771048161280-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1534</id>
+        <name>The Home Depot</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>z0Q0NmhAyC</id>
+          <first-name>Rhonda</first-name>
+          <last-name>Gilbert</last-name>
+          <headline>Human Resources Manager at The Home Depot Canada</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_m8msvsw1dL5QBoMxmF2dv4flW_iWBo4xuXsLv4dunLcMemf0GQYnRZgCbm_nqDJP7_uksxcAV0hi</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/z0Q0NmhAyC</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:DnRP</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=80400610&amp;authToken=DnRP&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Human Resources Manager</title>
+          <company>
+            <id>20604</id>
+            <name>Silicon Knights</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Human Resources Manager</title>
+          <company>
+            <id>1534</id>
+            <name>The Home Depot</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+</updates>

@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<updates total="14">
+  <update>
+    <timestamp>1348335382230</timestamp>
+    <update-key>UNIU-c2646-5655328487079149568-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2646</id>
+        <name>Walmart</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>X_XmZkB6qa</id>
+          <first-name>Gerardo</first-name>
+          <last-name>Díaz Paredes</last-name>
+          <headline>Sub Gerente de Planeación Financiera  en Walmart</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_UQF0Z_pCOkyhRnH3M69uZ3ETOiUGRn43MG18Zhsj357-X-fTc8c198a1raRjZlJDs5L3BbeGC9vR</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/X_XmZkB6qa</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:Dvo8</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=91078822&amp;authToken=Dvo8&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Subgerente de Planeación Financiera</title>
+          <company>
+            <id>2646</id>
+            <name>Walmart</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348333471829</timestamp>
+    <update-key>UNIU-c2646-5655320474280808448-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2646</id>
+        <name>Walmart</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>DVmfZ83b8Z</id>
+          <first-name>David</first-name>
+          <last-name>Howe</last-name>
+          <headline>Assistant Store Manager at Walmart</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_2AaKEUv2sDK5ObZHmlj7EJq2VH6w-beHm9VfEJ6uLm-UDixe8cOyXMtCqLQNl8WXD-2m5YZVlMxq</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/DVmfZ83b8Z</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:VXbg</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=149826967&amp;authToken=VXbg&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Assitant Store Manager</title>
+          <company>
+            <id>2646</id>
+            <name>Walmart</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348317608674</timestamp>
+    <update-key>UNIU-c2646-5655253939386335232-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2646</id>
+        <name>Walmart</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>mvSiukde37</id>
+          <first-name>Benfry</first-name>
+          <last-name>Fabara</last-name>
+          <headline>Manager, SOX Controls at Wal-Mart</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/mvSiukde37</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:-kx5</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=195850335&amp;authToken=-kx5&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Manager, SOX Controls</title>
+          <company>
+            <id>2646</id>
+            <name>Walmart</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348276357611</timestamp>
+    <update-key>UNIU-c2646-5655080919887781888-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2646</id>
+        <name>Walmart</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>gP-vJGNZFR</id>
+          <first-name>Paulina</first-name>
+          <last-name>Rodriguez Canela</last-name>
+          <headline>Comprador Jr en Walmart</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/gP-vJGNZFR</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:PbSc</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=81326282&amp;authToken=PbSc&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Comprador Jr</title>
+          <company>
+            <id>2646</id>
+            <name>Walmart</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348195072042</timestamp>
+    <update-key>UNIU-c2646-5654739983496392704-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2646</id>
+        <name>Walmart</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>L2St95oEz_</id>
+          <first-name>Courtney</first-name>
+          <last-name>Dawson-Wallace</last-name>
+          <headline>Logistics Solutions Specialist: eCommerce at Walmart</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_U-uG035tn1xaPQlGz9gA0_cjN9Vm1LhGJKZg0_bawKaY2TcCcqyali1hsRslKG3asAmprXMTgApj</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/L2St95oEz_</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:ebKJ</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=180322064&amp;authToken=ebKJ&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Expedite &amp; Priority Traffic Coordinator</title>
+          <company>
+            <name>Wal-Mart Transportation Corporate Office</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Logistics Solutions Specialist: eCommerce</title>
+          <company>
+            <id>2646</id>
+            <name>Walmart</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348193346240</timestamp>
+    <update-key>UNIU-c2646-5654732744958152704-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2646</id>
+        <name>Walmart</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>oV73JLYokC</id>
+          <first-name>Zuhair</first-name>
+          <last-name>Shah</last-name>
+          <headline>Seeking a position that will allow me to utilize my skills and experience for company's success</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_wM8zE7kHGemIGsZkWUr6E2bRaHUk8JekdRNEE2cHAm7NxgxXFxKJXu_6hLRUiOWeEsCI5wdSU6ax</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/oV73JLYokC</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:93c9</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=203004998&amp;authToken=93c9&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Customer Service Specialist</title>
+          <company>
+            <id>2646</id>
+            <name>Walmart</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348154580880</timestamp>
+    <update-key>UNIU-c2646-5654570151262027776-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2646</id>
+        <name>Walmart</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>TcpKyM7DI4</id>
+          <first-name>Jennifer</first-name>
+          <last-name>Chang, Pharm.D.</last-name>
+          <headline>Pharmacist at Walmart</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_mB1VmU9Y7M-w1xqwarrWmJ9t7yQ5Pxvwu1F5m4v_KVtvuRCIGli9hZ3STl6srZNb7NAXTxF0Nl_O</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/TcpKyM7DI4</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:HG0l</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=104919627&amp;authToken=HG0l&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Pharmacist Intern</title>
+          <company>
+            <id>23791</id>
+            <name>Veterans Health Administration</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Pharmacist</title>
+          <company>
+            <id>2646</id>
+            <name>Walmart</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348110974000</timestamp>
+    <update-key>UNIU-c2646-5654387250746621952-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2646</id>
+        <name>Walmart</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>Tv2UIbCkvI</id>
+          <first-name>Stephan</first-name>
+          <last-name>Green</last-name>
+          <headline>Assistant Store Manager at Walmart</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/Tv2UIbCkvI</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:ahzB</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=53926499&amp;authToken=ahzB&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Assistant Store Manager</title>
+          <company>
+            <id>2646</id>
+            <name>Walmart</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348106242845</timestamp>
+    <update-key>UNIU-c2646-5654367406831697920-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2646</id>
+        <name>Walmart</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>yNsEij3SHm</id>
+          <first-name>Duane</first-name>
+          <last-name>Danso</last-name>
+          <headline>Inventory Associate at Walmart</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_0-CI4t97_6Pa1V28jPlN4AGtiiNuPVg8jnnN4AXfp58yuYEhPqtFnlK3DaqPrjyuOA8zcnVEIh_T</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/yNsEij3SHm</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:NFWC</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=47970919&amp;authToken=NFWC&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Public Works/ Engineering Intern</title>
+          <company>
+            <id>1800694</id>
+            <name>City of Woonsocket</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Inventory Associate</title>
+          <company>
+            <id>2646</id>
+            <name>Walmart</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348096425835</timestamp>
+    <update-key>UNIU-c2646-5654326231311585280-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2646</id>
+        <name>Walmart</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>h-BgHFFhQw</id>
+          <first-name>Alison</first-name>
+          <last-name>Barone</last-name>
+          <headline>Asset Protection Manager at Walmart</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_Vu55rTsE3NDGbZtP4eFsrGebTBxSwZiP4HlVriEVYAwgNpq1nEvWY_Oq7s0tHxGxR7bU0k4xHFd9</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/h-BgHFFhQw</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:XMce</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=187305893&amp;authToken=XMce&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Asset Protection Manager</title>
+          <company>
+            <id>2646</id>
+            <name>Walmart</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348086153511</timestamp>
+    <update-key>UNIU-c2646-5654283146095493120-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2646</id>
+        <name>Walmart</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>W0hlH5ZicM</id>
+          <first-name>Stacey</first-name>
+          <last-name>Taubel</last-name>
+          <headline>Management Professional</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_-KgZfK_-wJ31AmbXKcYwf1CyIxnOADBXrqWFf-83qJCaaW8kYnSNTtqfLt93tonH1PxQhvYNKASV</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/W0hlH5ZicM</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:TxON</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=145430595&amp;authToken=TxON&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Resident Assistant</title>
+          <company>
+            <name>Residence Life</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Assistant Manager</title>
+          <company>
+            <id>2646</id>
+            <name>Walmart</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348068130283</timestamp>
+    <update-key>UNIU-c2646-5654207551210782720-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2646</id>
+        <name>Walmart</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>Ncw0XpifCQ</id>
+          <first-name>Abhijeet</first-name>
+          <last-name>Sinha</last-name>
+          <headline>Assets Protection Manager at Bharti Wal-Mart</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_G13YmJAryVTUlK6Ihc-3msKpYyFZAnBI8qz3mU3DTM1ea-8wmzAthRviK-bbtlnFiri8Tp1O--La</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/Ncw0XpifCQ</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:zkVm</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=56785620&amp;authToken=zkVm&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Assistant Store Operation Manager</title>
+          <company>
+            <id>591171</id>
+            <name>Bharti Retail</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Assets Protection Manager</title>
+          <company>
+            <id>2646</id>
+            <name>Walmart</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347929345051</timestamp>
+    <update-key>UNIU-c2646-5653625443706761216-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2646</id>
+        <name>Walmart</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>Ysy0OEsqUi</id>
+          <first-name>Tracy</first-name>
+          <last-name>Reinhold</last-name>
+          <headline>Associate Executive Assistant Director at FBI</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/Ysy0OEsqUi</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:xpar</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=178129335&amp;authToken=xpar&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Vice President, Global Investigations</title>
+          <company>
+            <id>2646</id>
+            <name>Walmart</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347918092212</timestamp>
+    <update-key>UNIU-c2646-5653578245879115776-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2646</id>
+        <name>Walmart</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>ABar6-BfXL</id>
+          <first-name>Alycia</first-name>
+          <last-name>Agboola</last-name>
+          <headline>Corporate Extern- Privacy Compliance at Walmart</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_Wn8k2DFjGp2WAJK5wAhB2mnKC4JbAJ35w-NR2mnSgYDBag9LLKKeCaG_uzMZtOhWevCsidXhOt9W</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/ABar6-BfXL</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:Xmk7</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=181005554&amp;authToken=Xmk7&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Rule XV Student Attorney</title>
+          <company>
+            <name>University of Arkansas Legal Clinic</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Corporate Extern- Privacy Compliance</title>
+          <company>
+            <id>2646</id>
+            <name>Walmart</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>to2pPqAI0L</id>
+          <first-name>Bruce</first-name>
+          <last-name>Fensham</last-name>
+          <headline>Founder and CEO Canadian Business Recognition And Complaints Board Inc</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_JE55fCV5iJOiIR_kM2k9f3ssTVRhwZ_kUSlVf3JVYyfrNpNXvuvWTTSq7cU0HxCe4WbUhQI7gsx3</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+</updates>

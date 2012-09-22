@@ -1,0 +1,407 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<updates total="8">
+  <update>
+    <timestamp>1348167074303</timestamp>
+    <update-key>UNIU-c5419-5654622552513843200-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>5419</id>
+        <name>QVC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>RIzVvViWFA</id>
+          <first-name>Laura</first-name>
+          <last-name>Tucker</last-name>
+          <headline>Studio Assistant at QVC</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_in1UQMAAfIkRPpsZ_chHQR_1fS39lxsZTqFXQR1hrIz6mRS47KiBHUba38Td-ZUNGvA5WyTr1fLZ</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/RIzVvViWFA</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:eRXl</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=204237731&amp;authToken=eRXl&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Photo Intern</title>
+          <company>
+            <id>10405</id>
+            <name>Entertainment Weekly</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Studio Assistant</title>
+          <company>
+            <id>5419</id>
+            <name>QVC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347639326479</timestamp>
+    <update-key>UNIU-c5419-5652409017662717952-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>5419</id>
+        <name>QVC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>Oy1OLWAGkf</id>
+          <first-name>Allison</first-name>
+          <last-name>MacNeill</last-name>
+          <headline>EZ Pay Representative at QVC</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_7bH7ExR8zeCBJF0k3CdpEpWiBScbMF0kSiprEjV0eIiBQ_HXiT4_XgmAM8BZVhOemkol5sXTAX_k</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/Oy1OLWAGkf</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:317N</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=164413606&amp;authToken=317N&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Soccer Captain</title>
+          <company>
+            <id>25978</id>
+            <name>Neumann University</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>EZ Pay Representative</title>
+          <company>
+            <id>5419</id>
+            <name>QVC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347416458187</timestamp>
+    <update-key>UNIU-c5419-5651474240289902592-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>5419</id>
+        <name>QVC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>lhusDnU6JS</id>
+          <first-name>Elizabeth</first-name>
+          <last-name>Tucker</last-name>
+          <headline>Fashion stylist at QVC</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/lhusDnU6JS</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:oqqf</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=17208417&amp;authToken=oqqf&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Fashion stylist</title>
+          <company>
+            <id>5419</id>
+            <name>QVC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347285243407</timestamp>
+    <update-key>UNIU-c5419-5650923885604904960-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>5419</id>
+        <name>QVC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>pSAkjBrO8D</id>
+          <first-name>Erin</first-name>
+          <last-name>Springer</last-name>
+          <headline>Strategic Programming Event Coordinator at QVC</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_H1YHLf6x6uZkguSNHcgcLunhk2jelupNEqEBLSF8UEdZmHIqkzmXwDPmE3gB-wjZdry9oovSwlnk</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/pSAkjBrO8D</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:p1Ru</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=114815181&amp;authToken=p1Ru&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Membership Marketing Representative</title>
+          <company>
+            <name>Greater Wildwood Chamber of Commerce</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Strategic Programming Event Coordinator</title>
+          <company>
+            <id>5419</id>
+            <name>QVC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1346291387948</timestamp>
+    <update-key>UNIU-c5419-5646755353686200320-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>5419</id>
+        <name>QVC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>babUkXoMdt</id>
+          <first-name>Kate</first-name>
+          <last-name>Flewelling</last-name>
+          <headline>Sales and Product Planning Intern at QVC</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_IyKoX7QV77Rw_p7nwR_MXDkn_uOW3xxnd4kvX2LbyooMORe9bs86EulWSTYnCZYsoxtqIwBMmGRS</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/babUkXoMdt</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:q_es</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=172147548&amp;authToken=q_es&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Sales and Product Planning Intern</title>
+          <company>
+            <id>5419</id>
+            <name>QVC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1346206192447</timestamp>
+    <update-key>UNIU-c5419-5646398017842999296-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>5419</id>
+        <name>QVC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>private</id>
+          <first-name>private</first-name>
+          <last-name>private</last-name>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Copywriter (on-call)</title>
+          <company>
+            <id>5419</id>
+            <name>QVC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1346187337956</timestamp>
+    <update-key>UNIU-c5419-5646318936371781632-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>5419</id>
+        <name>QVC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>ETtf0HmBlM</id>
+          <first-name>Daniel</first-name>
+          <last-name>Wu</last-name>
+          <headline>Software Developer</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_SLdZcMI8EG1EREEj7k4wcRJ3eCTkUdRj7TjFcVRpBXvNkS2g3iJNMs7-Q73U4aVAu6IQ4g5GJ1wl</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/ETtf0HmBlM</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:iNkt</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=120842133&amp;authToken=iNkt&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Software Engineer Associate</title>
+          <company>
+            <id>1319</id>
+            <name>Lockheed Martin</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Applications Developer</title>
+          <company>
+            <id>5419</id>
+            <name>QVC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1345812209647</timestamp>
+    <update-key>UNIU-c5419-5644745534477463552-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>5419</id>
+        <name>QVC</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>8dCHwAQ6ws</id>
+          <first-name>Ingrid</first-name>
+          <last-name>Brackley</last-name>
+          <headline>On Maternity Leave until April 2013</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_Pk_hAcjYK-1gNqigAX31AN7KrN8AqqigA6BxANg2flN3IKqj0CP2xqdGOVhaB1GltbTOO17UqBgB</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/8dCHwAQ6ws</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:gfQo</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=19532208&amp;authToken=gfQo&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>On Maternity Leave until April 2013</title>
+          <company>
+            <id>5419</id>
+            <name>QVC</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+</updates>

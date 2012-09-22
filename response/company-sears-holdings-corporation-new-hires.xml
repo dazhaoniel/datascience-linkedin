@@ -1,0 +1,681 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<updates total="13">
+  <update>
+    <timestamp>1348289434461</timestamp>
+    <update-key>UNIU-c1944-5655135768163647488-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1944</id>
+        <name>Sears Holdings Corporation</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>nLA5RfZslS</id>
+          <first-name>Maggie</first-name>
+          <last-name>Redmon</last-name>
+          <headline>Email Campaign Manager at Sears Holdings Corporation</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/nLA5RfZslS</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:3Epq</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=16088813&amp;authToken=3Epq&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>IT Product Manager</title>
+          <company>
+            <id>277726</id>
+            <name>IES Abroad</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Email Campaign Manager</title>
+          <company>
+            <id>1944</id>
+            <name>Sears Holdings Corporation</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348263992366</timestamp>
+    <update-key>UNIU-c1944-5655029056278638592-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1944</id>
+        <name>Sears Holdings Corporation</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>oWL6FxKzG6</id>
+          <first-name>Sudheer</first-name>
+          <last-name>Musukula</last-name>
+          <headline>WebSphere Administrator Consultant at Sears at Sears Holdings Corporation</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/oWL6FxKzG6</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:bt3A</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=10395321&amp;authToken=bt3A&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>WebSphere Administrator Consultant at Sears</title>
+          <company>
+            <id>1944</id>
+            <name>Sears Holdings Corporation</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348192224570</timestamp>
+    <update-key>UNIU-c1944-5654728040320622592-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1944</id>
+        <name>Sears Holdings Corporation</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>7SS7hk8Qp-</id>
+          <first-name>Mario</first-name>
+          <last-name>DePalma</last-name>
+          <headline>Operations Manager</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/7SS7hk8Qp-</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:t1iX</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=156622831&amp;authToken=t1iX&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Senior Operations Manager</title>
+          <company>
+            <id>1944</id>
+            <name>Sears Holdings Corporation</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348191743525</timestamp>
+    <update-key>UNIU-c1944-5654726022675828736-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1944</id>
+        <name>Sears Holdings Corporation</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>l-8WbRVSr7</id>
+          <first-name>Rahela</first-name>
+          <last-name>Titean</last-name>
+          <headline>Store Planner at Sears Holdings Corporation</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_CV5yQ4iLOeBU2BeZhUz7QU_Epa3v2qZZhZliQU1Miez51K74apvKHRbB-iTE71MN_JbCWpSwm2ae</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/l-8WbRVSr7</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:E72h</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=189212130&amp;authToken=E72h&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Store Planner</title>
+          <company>
+            <id>1944</id>
+            <name>Sears Holdings Corporation</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348157818979</timestamp>
+    <update-key>UNIU-c1944-5654583732812660737-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1944</id>
+        <name>Sears Holdings Corporation</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>6JbCNVkgZ4</id>
+          <first-name>Philippe</first-name>
+          <last-name>Singletary</last-name>
+          <headline>Marketing/Promotions Professional At Sears Holdings Corporation</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/6JbCNVkgZ4</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:_MPR</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=199132905&amp;authToken=_MPR&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>IMPACT Offer Creation Specialist</title>
+          <company>
+            <id>1944</id>
+            <name>Sears Holdings Corporation</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348157036767</timestamp>
+    <update-key>UNIU-c1944-5654580451990310912-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1944</id>
+        <name>Sears Holdings Corporation</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>Ct487elygu</id>
+          <first-name>Jason</first-name>
+          <last-name>Kemlage</last-name>
+          <headline>Electronics Department at Sears Holdings Corporation</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/Ct487elygu</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:dgP1</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=130540606&amp;authToken=dgP1&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Client Manager</title>
+          <company>
+            <id>2614236</id>
+            <name>TOP Consulting</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Electronics</title>
+          <company>
+            <id>1944</id>
+            <name>Sears Holdings Corporation</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348103826484</timestamp>
+    <update-key>UNIU-c1944-5654357271895875584-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1944</id>
+        <name>Sears Holdings Corporation</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>sSjmChLdQ-</id>
+          <first-name>Zachary</first-name>
+          <last-name>Hallman</last-name>
+          <headline>Automotive Technician  at Sears Holdings Corporation</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_Wn8k22Np8YmQl0A5Wt_U27FjC4JbAJ35IBNR2mnSgYDBag9LLKKeCaG_uzMZtOhWevCsidH53pqW</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/sSjmChLdQ-</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:sBvu</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=157554030&amp;authToken=sBvu&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Automotive Technician</title>
+          <company>
+            <id>1944</id>
+            <name>Sears Holdings Corporation</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348100741625</timestamp>
+    <update-key>UNIU-c1944-5654344333055254528-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1944</id>
+        <name>Sears Holdings Corporation</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>IKerwUPCdI</id>
+          <first-name>Andrew</first-name>
+          <last-name>Sharp</last-name>
+          <headline>Logistics Process Manager at Sears Holdings Corporation</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_sNXFMQ9yh80COOS7V1C4MLzC86W8OUS74vrZMLqyxigK30sf9tqIc58tmedxgyu_UB6JnCEYsGUr</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/IKerwUPCdI</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:C3HQ</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=55992989&amp;authToken=C3HQ&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Inventory Control / Quality Assurance Manager</title>
+          <company>
+            <id>1944</id>
+            <name>Sears Holdings Corporation</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348022713025</timestamp>
+    <update-key>UNIU-c1944-5654017057369362432-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1944</id>
+        <name>Sears Holdings Corporation</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>44eTbRrt4d</id>
+          <first-name>Yaa</first-name>
+          <last-name>Larbi</last-name>
+          <headline>Vendor Performance Analyst at Sears Holdings Corporation</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_B1FpR_18PGSP0rd3zv97Rhijx3UYj9J3vB1_Rh3j8b7mGtaTRzcrv8v1l2RTYA4DnrLGqb11yJie</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/44eTbRrt4d</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:9pwe</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=66434409&amp;authToken=9pwe&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Business Reporting Specialist</title>
+          <company>
+            <id>212139</id>
+            <name>SYNCREON</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Vendor Performance Analyst</title>
+          <company>
+            <id>1944</id>
+            <name>Sears Holdings Corporation</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>j8gLYEignm</id>
+          <first-name>RAJU</first-name>
+          <last-name>BHATT</last-name>
+          <headline>sales represntative at Sears Holdings Corporation</headline>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1348022221949</timestamp>
+    <update-key>UNIU-c1944-5654014997659934720-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1944</id>
+        <name>Sears Holdings Corporation</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>0wvQvyFeOD</id>
+          <first-name>Aleksandra</first-name>
+          <last-name>Pawlowska</last-name>
+          <headline>Store Planner at Sears Holdings Corporation</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_y9lKkKntyINCKlWBYqn7k1qlpdrhKlHBOA5fk1zCi7Xr7z0crrTyoPTu-XK01ndUgzPmwNIVGubt</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/0wvQvyFeOD</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:pegG</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=83911408&amp;authToken=pegG&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Store Planner</title>
+          <company>
+            <id>1944</id>
+            <name>Sears Holdings Corporation</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347981521801</timestamp>
+    <update-key>UNIU-c1944-5653844288870563840-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1944</id>
+        <name>Sears Holdings Corporation</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>cdp0mbz8zx</id>
+          <first-name>Yifan</first-name>
+          <last-name>Wang</last-name>
+          <headline>Senior Analyst at Sears Holdings Corporation</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/cdp0mbz8zx</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:wZD4</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=34489815&amp;authToken=wZD4&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Strategy Consultant/Analyst</title>
+          <company>
+            <id>3589</id>
+            <name>Walgreens</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Senior Analyst, HR Analytics</title>
+          <company>
+            <id>1944</id>
+            <name>Sears Holdings Corporation</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347915654552</timestamp>
+    <update-key>UNIU-c1944-5653568021596237824-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1944</id>
+        <name>Sears Holdings Corporation</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>M2nOOeMaIm</id>
+          <first-name>Patrick</first-name>
+          <last-name>Futtner</last-name>
+          <headline>Visual Designer (Contract) at Sears Holdings Corporation</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_hW3LF02UaE9bXJ0cCf-VFgacGIlcQsmcCIzsFyjeja5FMOMBu7AdWpWQ25AHLg7R3EiRHR7uzXZw</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/M2nOOeMaIm</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:xc-m</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=82621040&amp;authToken=xc-m&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Visual Designer (Contract)</title>
+          <company>
+            <id>1944</id>
+            <name>Sears Holdings Corporation</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347866233770</timestamp>
+    <update-key>UNIU-c1944-5653360735867117568-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>1944</id>
+        <name>Sears Holdings Corporation</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>Mk71dvLpCW</id>
+          <first-name>pratyaksha</first-name>
+          <last-name>raval</last-name>
+          <headline>associate engineer at Sears Holdings Corporation</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/Mk71dvLpCW</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:wM1C</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=90225303&amp;authToken=wM1C&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>associate engineer</title>
+          <company>
+            <id>1944</id>
+            <name>Sears Holdings Corporation</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+</updates>

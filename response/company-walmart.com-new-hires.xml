@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<updates total="8">
+  <update>
+    <timestamp>1348317389552</timestamp>
+    <update-key>UNIU-c4192-5655253020322066432-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4192</id>
+        <name>Walmart.com</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>mvSiukde37</id>
+          <first-name>Benfry</first-name>
+          <last-name>Fabara</last-name>
+          <headline>Manager, SOX Controls at Wal-Mart</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/mvSiukde37</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:-kx5</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=195850335&amp;authToken=-kx5&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Manager, SOX Controls</title>
+          <company>
+            <id>4192</id>
+            <name>Walmart.com</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348099440237</timestamp>
+    <update-key>UNIU-c4192-5654338874621583360-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4192</id>
+        <name>Walmart.com</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>MORt_IGbc1</id>
+          <first-name>Linda</first-name>
+          <last-name>Piper</last-name>
+          <headline>Sr. Planner</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/MORt_IGbc1</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:t3T8</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=177733648&amp;authToken=t3T8&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Merchandise Planner</title>
+          <company>
+            <name>JC Penney</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Sr. Planner</title>
+          <company>
+            <id>4192</id>
+            <name>Walmart.com</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348012852452</timestamp>
+    <update-key>UNIU-c4192-5653975699145367552-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4192</id>
+        <name>Walmart.com</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>s9aBSBg_bx</id>
+          <first-name>Carla</first-name>
+          <last-name>Zatorre</last-name>
+          <headline>Analista de Marketing na Walmart.com</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_fquK8pvaJYcIPhNqTrgf8Yb1M4KQ15kqDKZf8YqaQYkn23PN_-yyaO8hBzrMKC54acmm7J6_oY-Q</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/s9aBSBg_bx</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:Jeb2</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=40847478&amp;authToken=Jeb2&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Analista de Mídias Sociais Sênior</title>
+          <company>
+            <id>454119</id>
+            <name>Gauge</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Analista de Marketing</title>
+          <company>
+            <id>4192</id>
+            <name>Walmart.com</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1346797738921</timestamp>
+    <update-key>UNIU-c4192-5648879143585083392-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4192</id>
+        <name>Walmart.com</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>dZWb6UBy1p</id>
+          <first-name>Eric</first-name>
+          <last-name>Reyes</last-name>
+          <headline>Interactive Producer at Walmart.com</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_fsPnURkB2L-HigZ2DptWUZt62kL6TOe2S4bdUZz61GA9Ysxu_y_sz4THGW5JGJWhaMleN0wyErdg</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/dZWb6UBy1p</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:W2gK</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=4798272&amp;authToken=W2gK&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Project Manager</title>
+          <company>
+            <id>2646</id>
+            <name>Wal-Mart Stores, Inc.</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Interactive Producer</title>
+          <company>
+            <id>4192</id>
+            <name>Walmart.com</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>lu8aUImOF5</id>
+          <first-name>Suelen</first-name>
+          <last-name>Caez</last-name>
+          <headline>Public Policy Professional</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_EBP1XaQKx7oF1AWnoAChXS6igdO6PtHnHzbuXuv_C7o9u9096l_0E23SPXYJrvdswNlDIIwMDZ-j</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1346371168769</timestamp>
+    <update-key>UNIU-c4192-5647089978686066688-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4192</id>
+        <name>Walmart.com</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>cQbsl0KVC_</id>
+          <first-name>Fabio</first-name>
+          <last-name>Reis</last-name>
+          <headline>Wave no E-commerce do Walmart</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_tK6jMzCDOG-lABVfttFmMBCgy_kxjqUfKq-CMBig_LK7GKu7On9AccBPtmX8Y1siPPXinrg1Bqir</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/cQbsl0KVC_</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:E0Db</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=192735116&amp;authToken=E0Db&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>lider de operações</title>
+          <company>
+            <name>ideialog logistica</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>wave</title>
+          <company>
+            <id>4192</id>
+            <name>Walmart.com</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>lu8aUImOF5</id>
+          <first-name>Suelen</first-name>
+          <last-name>Caez</last-name>
+          <headline>Public Policy Professional</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_EBP1XaQKx7oF1AWnoAChXS6igdO6PtHnHzbuXuv_C7o9u9096l_0E23SPXYJrvdswNlDIIwMDZ-j</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1346257744233</timestamp>
+    <update-key>UNIU-c4192-5646614241717809152-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4192</id>
+        <name>Walmart.com</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>XHIa4rRdAe</id>
+          <first-name>Samuel</first-name>
+          <last-name>Crow</last-name>
+          <headline>Truck Unloader at walmart</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_M5umg6IaNqY898A2UbaggkdPNAd3nLA2RFZAgkRawqjAWT6uz_yC1X7hsxWOzGrhZQmKtiW_GJeJ</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/XHIa4rRdAe</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:egD8</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=44863590&amp;authToken=egD8&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Consultant</title>
+          <company>
+            <id>16701</id>
+            <name>Eagle Creek Software Services</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Truck Unloader</title>
+          <company>
+            <id>4192</id>
+            <name>Walmart.com</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>lu8aUImOF5</id>
+          <first-name>Suelen</first-name>
+          <last-name>Caez</last-name>
+          <headline>Public Policy Professional</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_EBP1XaQKx7oF1AWnoAChXS6igdO6PtHnHzbuXuv_C7o9u9096l_0E23SPXYJrvdswNlDIIwMDZ-j</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1346136089130</timestamp>
+    <update-key>UNIU-c4192-5646103983232675840-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4192</id>
+        <name>Walmart.com</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>dauZ8oskNM</id>
+          <first-name>Karthikeyan</first-name>
+          <last-name>Dhamodaran</last-name>
+          <headline>Technical Lead at Walmart Global Technology Services</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/dauZ8oskNM</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:FUA1</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=24861747&amp;authToken=FUA1&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Technical Lead</title>
+          <company>
+            <id>4192</id>
+            <name>Walmart.com</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1345840986628</timestamp>
+    <update-key>UNIU-c4192-5644866233611341824-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4192</id>
+        <name>Walmart.com</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>E1YMtM1mmp</id>
+          <first-name>Martin</first-name>
+          <last-name>Tabler</last-name>
+          <headline>Store Integrations at Walmart.com</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_66VqgSxSIBanseQh6iEbgf7hINMBsmQhkkawgfy-qlSb5ol8Eho417HpLVJeJWb2FL4oteCx3LRf</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/E1YMtM1mmp</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:ibV8</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=122865219&amp;authToken=ibV8&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Intern</title>
+          <company>
+            <id>2103646</id>
+            <name>Office of U.S. Senator John Boozman</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Store Integrations Operations Coordinator</title>
+          <company>
+            <id>4192</id>
+            <name>Walmart.com</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>lu8aUImOF5</id>
+          <first-name>Suelen</first-name>
+          <last-name>Caez</last-name>
+          <headline>Public Policy Professional</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_EBP1XaQKx7oF1AWnoAChXS6igdO6PtHnHzbuXuv_C7o9u9096l_0E23SPXYJrvdswNlDIIwMDZ-j</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+</updates>

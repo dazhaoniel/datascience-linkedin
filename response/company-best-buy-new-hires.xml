@@ -1,0 +1,258 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<updates total="5">
+  <update>
+    <timestamp>1348282810238</timestamp>
+    <update-key>UNIU-c2127-5655107984162824192-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2127</id>
+        <name>Best Buy</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>G_xwH5xwaB</id>
+          <first-name>Ashley</first-name>
+          <last-name>Ferguson</last-name>
+          <headline>Experienced in Management, Customer Service and Human Resources</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_OPQTE1NalI3iKvjkYqhYEl9D1wcmyvukyNtOElFO2DiY_AUXtvnSXAPrjQBl0tSe0Kkx59zTr78X</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/G_xwH5xwaB</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:fuQF</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=196596896&amp;authToken=fuQF&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Human Resources Generalist</title>
+          <company>
+            <id>2127</id>
+            <name>Best Buy</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348257653282</timestamp>
+    <update-key>UNIU-c2127-5655002468241641472-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2127</id>
+        <name>Best Buy</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>hbjQ9xsRM6</id>
+          <first-name>Veronica</first-name>
+          <last-name>Bouchard</last-name>
+          <headline>Gallery Assistant at Institute of Contemporary Art</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_oFea4EVy9_VQ4iS2k8Vl4HWTN8Wb4Qp2H_yl4dVyw6gBFGIuQ3ZGnWmtsSdZUTjhIXErcmXqjOOX</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/hbjQ9xsRM6</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:nBa5</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=110459456&amp;authToken=nBa5&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Alumnus</title>
+          <company>
+            <name>Maine College of Art</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Sales Assosiate</title>
+          <company>
+            <id>2127</id>
+            <name>Best Buy</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348172525193</timestamp>
+    <update-key>UNIU-c2127-5654645415149051904-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2127</id>
+        <name>Best Buy</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>19DhLz2qdI</id>
+          <first-name>Phil</first-name>
+          <last-name>Birchard</last-name>
+          <headline>Sales Senior at Best Buy</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_xxsvANcWXn9C2uzjjswEAcX6HN3DufLjjZmoAcFqclzjPw-g1MEMxBPV6VT-fHXAYyZwOKMXLxOu</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/19DhLz2qdI</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:ijN5</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=123816504&amp;authToken=ijN5&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Sales Senior</title>
+          <company>
+            <id>2127</id>
+            <name>Best Buy</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348171124014</timestamp>
+    <update-key>UNIU-c2127-5654639538174181377-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2127</id>
+        <name>Best Buy</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>t-0LGdWoh4</id>
+          <first-name>Bejoy</first-name>
+          <last-name>Titus</last-name>
+          <headline>Computer &amp; Tablets Specialist/Sales at Best Buy</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/t-0LGdWoh4</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:__vw</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=125073708&amp;authToken=__vw&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Computer &amp; Tablets Specialist</title>
+          <company>
+            <id>2127</id>
+            <name>Best Buy</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348150284220</timestamp>
+    <update-key>UNIU-c2127-5654552129747030016-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2127</id>
+        <name>Best Buy</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>brfBbevYyH</id>
+          <first-name>Jason</first-name>
+          <last-name>Larkin</last-name>
+          <headline>Promotional Operations Analyst</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/brfBbevYyH</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:eiyL</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=13605818&amp;authToken=eiyL&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Promotion Operations Analyst</title>
+          <company>
+            <id>2127</id>
+            <name>Best Buy</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+</updates>

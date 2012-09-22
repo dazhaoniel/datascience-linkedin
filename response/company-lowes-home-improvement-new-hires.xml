@@ -1,0 +1,653 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<updates total="12">
+  <update>
+    <timestamp>1348192584264</timestamp>
+    <update-key>UNIU-c4128-5654729548999176192-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4128</id>
+        <name>Lowe's Home Improvement</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>JUR1v9Znju</id>
+          <first-name>Cheryl</first-name>
+          <last-name>Nelson</last-name>
+          <headline>9 plus years of customer service experience plus project mangement.</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_FIUn3WxBE4OMkSzRbwZL3oOwoZSveSkRL77d3oxczOM5BdPUwDws7EIJXvDEIE5c6HMeaS3npYi9</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/JUR1v9Znju</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:wNIo</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=164612508&amp;authToken=wNIo&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Senior Customer Service Representative</title>
+          <company>
+            <id>2807</id>
+            <name>Aetna, Inc</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Department Manager</title>
+          <company>
+            <id>4128</id>
+            <name>Lowe's Home Improvement</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348187572395</timestamp>
+    <update-key>UNIU-c4128-5654708527705382913-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4128</id>
+        <name>Lowe's Home Improvement</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>szTTwlgCoM</id>
+          <first-name>Darren</first-name>
+          <last-name>Curtis</last-name>
+          <headline>System Engineer III at Lowe's Home Improvement</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_vrCZ-hrAmcRlrybrzlrb-CF0m10grsBrcAnF-C8flvISfO8KJ9tNyGq38OxCPgnpN18QjLOJPBSt</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/szTTwlgCoM</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:VBpW</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=150366074&amp;authToken=VBpW&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Sr. System Engineer</title>
+          <company>
+            <id>12904</id>
+            <name>Carolinas Healthcare System</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>System Engineer III</title>
+          <company>
+            <id>4128</id>
+            <name>Lowe's Home Improvement</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348076793539</timestamp>
+    <update-key>UNIU-c4128-5654243887485566976-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4128</id>
+        <name>Lowe's Home Improvement</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>3NeSESnzOS</id>
+          <first-name>Anette</first-name>
+          <last-name>Knudsen/CPH/Satair</last-name>
+          <headline>retired</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/3NeSESnzOS</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:N0qE</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=48157309&amp;authToken=N0qE&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Retired</title>
+          <company>
+            <id>4128</id>
+            <name>Lowe's Home Improvement</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348005932753</timestamp>
+    <update-key>UNIU-c4128-5653946675811610624-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4128</id>
+        <name>Lowe's Home Improvement</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>qMgtcszH_T</id>
+          <first-name>Samuel</first-name>
+          <last-name>Smith</last-name>
+          <headline>--</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/qMgtcszH_T</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:_oKo</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=204702229&amp;authToken=_oKo&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Customer Service Associate</title>
+          <company>
+            <id>4128</id>
+            <name>Lowe's Home Improvement</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347968123314</timestamp>
+    <update-key>UNIU-c4128-5653788091547152384-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4128</id>
+        <name>Lowe's Home Improvement</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>2QLe1HW8iv</id>
+          <first-name>Brad</first-name>
+          <last-name>Shaw</last-name>
+          <headline>Human Resource Manager at Lowes Home Improvement</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_jOgiHrbJUoC2f3O60YuKHP_XBdvfi3a6xJWyHPXke7T0p5JQl4SfQ1KEMXzr86fopjxjFqVuSCJ-</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/2QLe1HW8iv</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:m6QG</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=195650518&amp;authToken=m6QG&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Business Development Intern</title>
+          <company>
+            <id>162257</id>
+            <name>AccuWeather</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Human Resource Manager</title>
+          <company>
+            <id>4128</id>
+            <name>Lowe's Home Improvement</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347838099972</timestamp>
+    <update-key>UNIU-c4128-5653242734132084736-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4128</id>
+        <name>Lowe's Home Improvement</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>ODC6kLxc00</id>
+          <first-name>Laura</first-name>
+          <last-name>Kerley</last-name>
+          <headline>Merchandise Assortment Planner at Lowe's Home Improvement</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_iqpxyYv0BAKQlkLC_tj2ypGCUlcn1CzCT1Hhyj-GkciQ26GG7-2P-gQ2vyBWK5qmGcOTPs2JjuC3</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/ODC6kLxc00</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:nNWm</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=203189381&amp;authToken=nNWm&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Merchandise Assortment Planner</title>
+          <company>
+            <id>4128</id>
+            <name>Lowe's Home Improvement</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347643703955</timestamp>
+    <update-key>UNIU-c4128-5652427378115215360-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4128</id>
+        <name>Lowe's Home Improvement</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>N6GA8WNHpu</id>
+          <first-name>Amos</first-name>
+          <last-name>Isaac</last-name>
+          <headline>Assembler at Lowe's Home Improvement</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_zdfeRCycQLmh5uj3UD7BR3xJk3RKbdj3BaRcR3YoUXf8ZSoTMf0kvToXE7U7XapDqoDnqQ2isJVg</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/N6GA8WNHpu</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:nSAH</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=108676807&amp;authToken=nSAH&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Assembler</title>
+          <company>
+            <id>4128</id>
+            <name>Lowe's Home Improvement</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347385196902</timestamp>
+    <update-key>UNIU-c4128-5651343120973959168-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4128</id>
+        <name>Lowe's Home Improvement</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>bh8zlQWf1w</id>
+          <first-name>Gregory</first-name>
+          <last-name>McNamara</last-name>
+          <headline>Searching</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/bh8zlQWf1w</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:3II9</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=38668966&amp;authToken=3II9&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Department Manager</title>
+          <company>
+            <id>4128</id>
+            <name>Lowe's Home Improvement</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347338533817</timestamp>
+    <update-key>UNIU-c4128-5651147401801502720-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4128</id>
+        <name>Lowe's Home Improvement</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>BS_kyIFGRw</id>
+          <first-name>Kenneth</first-name>
+          <last-name>Rost</last-name>
+          <headline>Department Manager at Lowe's Home Improvement</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_cDHk-h265rJKHmTrzfJB-_0eFnxxHITrvopR-_7s4Pw7c7nKUI4eyiRNd408w28p9aosjXAv120e</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/BS_kyIFGRw</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:yGOV</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=12358969&amp;authToken=yGOV&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Department Manager</title>
+          <company>
+            <id>4128</id>
+            <name>Lowe's Home Improvement</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>6PfqeELiP0</id>
+          <first-name>frank</first-name>
+          <last-name>an</last-name>
+          <headline>sales manager at Ningbo Golden Green Sanitary Ware CO.LTD</headline>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1347333925219</timestamp>
+    <update-key>UNIU-c4128-5651128071940489216-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4128</id>
+        <name>Lowe's Home Improvement</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>rhdVDcRmtN</id>
+          <first-name>Jerry</first-name>
+          <last-name>Quinlan</last-name>
+          <headline>Independent Construction Professional</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/rhdVDcRmtN</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:9B8r</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=149978439&amp;authToken=9B8r&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Customer Sales Associate</title>
+          <company>
+            <id>4128</id>
+            <name>Lowe's Home Improvement</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347152323026</timestamp>
+    <update-key>UNIU-c4128-5650366377127583744-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4128</id>
+        <name>Lowe's Home Improvement</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>n4GoiFpVuC</id>
+          <first-name>Charlene</first-name>
+          <last-name>West</last-name>
+          <headline>Mill Work Specialist at Lowe's Home Improvement</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_JE55f_ZITyjKwR-kMWQVf3EQTMRhwZ_kUSlVf3JVYyfrNpNXvuvWTTSq7cU0HxCe4WbUhQwrfC73</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/n4GoiFpVuC</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:RQEO</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=55476775&amp;authToken=RQEO&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Disaster Restoration Insurance Professional</title>
+          <company>
+            <id>1974690</id>
+            <name>Master Restoration</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Mill Work Specialist, Riverview Florida</title>
+          <company>
+            <id>4128</id>
+            <name>Lowe's Home Improvement</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>p4FsYT-pZo</id>
+          <first-name>Anne</first-name>
+          <last-name>Ryan</last-name>
+          <headline>Senior Human Resource Generalist</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_yrLwHnkf321mOxpopBbNHqkiiu52pMpoYNAqHzLxpolpijIEr9zbQvllDTL1xYj6g1FvFtcRAiqL</picture-url>
+        </person>
+      </like>
+    </likes>
+  </update>
+  <update>
+    <timestamp>1346770656905</timestamp>
+    <update-key>UNIU-c4128-5648765553398009856-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>4128</id>
+        <name>Lowe's Home Improvement</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>C5StohHWQa</id>
+          <first-name>Kyle</first-name>
+          <last-name>Jones</last-name>
+          <headline>Student at Texas State University-San Marcos</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/C5StohHWQa</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:AdAr</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=188722545&amp;authToken=AdAr&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Cashier</title>
+          <company>
+            <id>4128</id>
+            <name>Lowe's Home Improvement</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>1</num-likes>
+    <likes total="1">
+      <like>
+        <person>
+          <id>s-f1z2C4ue</id>
+          <first-name>Adam</first-name>
+          <last-name>Vandehey</last-name>
+          <headline>Assistant Store Manager at Lowe's Home Improvement</headline>
+        </person>
+      </like>
+    </likes>
+  </update>
+</updates>

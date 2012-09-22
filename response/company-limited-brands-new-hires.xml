@@ -1,0 +1,668 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<updates total="13">
+  <update>
+    <timestamp>1348175180907</timestamp>
+    <update-key>UNIU-c2250-5654656554020896768-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2250</id>
+        <name>Limited Brands</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>gA1-wDYU9B</id>
+          <first-name>Melanie</first-name>
+          <last-name>King</last-name>
+          <headline>Student at Virginia Tech</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_Ol4nOB8TEv8mjSv2prZWOqvaozLaxSX2pz2dOq61zPAO8d1utBHsKNtjX45ApELh0tVeAPN_9v7J</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/gA1-wDYU9B</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:iL7s</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=158618224&amp;authToken=iL7s&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Marketing Operations Intern</title>
+          <company>
+            <id>2250</id>
+            <name>Limited Brands</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348093402280</timestamp>
+    <update-key>UNIU-c2250-5654313549594386432-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2250</id>
+        <name>Limited Brands</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>-XCGwXtC6R</id>
+          <first-name>Patricia</first-name>
+          <last-name>Goss</last-name>
+          <headline>Packaging Engineering Technician at Limited Brands</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/-XCGwXtC6R</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:HCPL</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=103424114&amp;authToken=HCPL&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Packaging Engineering Technician</title>
+          <company>
+            <id>2250</id>
+            <name>Limited Brands</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348068029961</timestamp>
+    <update-key>UNIU-c2250-5654207130375303168-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2250</id>
+        <name>Limited Brands</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>up8aYsP5F7</id>
+          <first-name>Yamalia</first-name>
+          <last-name>Roberts</last-name>
+          <headline>Product and Safety Coordinator at Limited Brands</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_5P24iIblwsYntI64FB0IieQ0IpuRKe94bc4bie3aqsZI723ZdvpqSHvhLA2X17cqkKa62f1Fvk6P</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/up8aYsP5F7</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:wFK4</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=119645975&amp;authToken=wFK4&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Product and Safety Coordinator</title>
+          <company>
+            <id>2250</id>
+            <name>Limited Brands</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347824046791</timestamp>
+    <update-key>UNIU-c2250-5653183790793637888-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2250</id>
+        <name>Limited Brands</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>iKmzNCp2ef</id>
+          <first-name>Lindy</first-name>
+          <last-name>Hedges-Wright</last-name>
+          <headline>Regulatory Technician at Limited Brands</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_N0TLAXGJ3nZ1_jijqptnAQ1VTND03RCjnUvsAbCIY-JfOxvg4JldxF9L7MShCp_Avp_ROhK624zY</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/iKmzNCp2ef</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:hPi-</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=64335492&amp;authToken=hPi-&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Associate Attorney</title>
+          <company>
+            <name>Soroka &amp; Associates, LLC</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Regulatory Technician</title>
+          <company>
+            <id>2250</id>
+            <name>Limited Brands</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347680458228</timestamp>
+    <update-key>UNIU-c2250-5652581536717881344-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2250</id>
+        <name>Limited Brands</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>X0V5KCIyaZ</id>
+          <first-name>alexandra</first-name>
+          <last-name>low</last-name>
+          <headline>Design Consultant at Limited Brands</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/X0V5KCIyaZ</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:f2UB</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=137039959&amp;authToken=f2UB&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Design Consultant</title>
+          <company>
+            <id>2250</id>
+            <name>Limited Brands</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347669688322</timestamp>
+    <update-key>UNIU-c2250-5652536364449685504-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2250</id>
+        <name>Limited Brands</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>SGh-Cfjw9H</id>
+          <first-name>Kayla</first-name>
+          <last-name>Fortman</last-name>
+          <headline>Production Assistant at Limited Brands</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_GoniwOuNtaP9o1fQGd5ywgDd-eNqE1mQhmCywgyqDa8XvBM6m2QfLjHVp5qIdq7EidNjkVmTz-s_</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/SGh-Cfjw9H</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:1BLW</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=129514433&amp;authToken=1BLW&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Wholesale Director/ Assistant Buyer</title>
+          <company>
+            <name>Martha Rey USA</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Production Assistant</title>
+          <company>
+            <id>2250</id>
+            <name>Limited Brands</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347563983713</timestamp>
+    <update-key>UNIU-c2250-5652093007197908992-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2250</id>
+        <name>Limited Brands</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>aG7seRq2m_</id>
+          <first-name>Vicki</first-name>
+          <last-name>Minard</last-name>
+          <headline>Starbucks Barista at Limited Brands</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_yrLwHnc_3WrDpxgoOB_ZHzQ0iu52pMpoOtAqHzLxpolpijIEr9zbQvllDTL1xYj6g1FvFtBrwcBL</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/aG7seRq2m_</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:KIRv</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=162525394&amp;authToken=KIRv&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Starbucks Barista</title>
+          <company>
+            <id>2250</id>
+            <name>Limited Brands</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347552798831</timestamp>
+    <update-key>UNIU-c2250-5652046094390001664-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2250</id>
+        <name>Limited Brands</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>MW0auYmVz4</id>
+          <first-name>Courtney</first-name>
+          <last-name>Allison</last-name>
+          <headline>Student at Columbus College of Art &amp; Design</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_5J73_mi9NJIUiblzLRmt_21EnMYcTXTzFUUY_DAoW0EFY8nvd0xDDS5XZNOHGi8JkVS0uEfOZ1uy</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/MW0auYmVz4</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:aiID</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=183690603&amp;authToken=aiID&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Store Design and Construction Intern</title>
+          <company>
+            <id>2250</id>
+            <name>Limited Brands</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1346447571571</timestamp>
+    <update-key>UNIU-c2250-5647410435289268224-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2250</id>
+        <name>Limited Brands</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>UvpvsLDim_</id>
+          <first-name>stephanie</first-name>
+          <last-name>taky</last-name>
+          <headline>Category Manager for Victoria's Secret</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/UvpvsLDim_</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:SuYu</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=126487980&amp;authToken=SuYu&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Category manager</title>
+          <company>
+            <id>2250</id>
+            <name>Limited Brands</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1346437768897</timestamp>
+    <update-key>UNIU-c2250-5647369319886123008-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2250</id>
+        <name>Limited Brands</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>YhCEL8O_M4</id>
+          <first-name>Madge</first-name>
+          <last-name>Anderson</last-name>
+          <headline>Production Coordinator at Limited Brands</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/YhCEL8O_M4</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:eO9Q</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=21663396&amp;authToken=eO9Q&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Production Coordinator</title>
+          <company>
+            <id>2250</id>
+            <name>Limited Brands</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1345818003575</timestamp>
+    <update-key>UNIU-c2250-5644769835998015488-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2250</id>
+        <name>Limited Brands</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>jV78vBmjNh</id>
+          <first-name>Athina</first-name>
+          <last-name>McPherson</last-name>
+          <headline>Floorset Marketing Associate at Limited Brands</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/jV78vBmjNh</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:A8X8</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=74230732&amp;authToken=A8X8&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Floorset Marketing Associate</title>
+          <company>
+            <id>2250</id>
+            <name>Limited Brands</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1345784683764</timestamp>
+    <update-key>UNIU-c2250-5644630082556280832-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2250</id>
+        <name>Limited Brands</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>A275uYSwqA</id>
+          <first-name>Jennifer</first-name>
+          <last-name>Skipper</last-name>
+          <headline>Victoria's Secret PINK- PSP Assistant Planner</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_SLdZcMwikGNEREIj737IcReDeCTkUdRj7TjFcVRpBXvNkS2g3iJNMs7-Q73U4aVAu6IQ4gdyeXMl</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/A275uYSwqA</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:Obdg</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=182038749&amp;authToken=Obdg&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>MBA Student</title>
+          <company>
+            <id>165631</id>
+            <name>Quinnipiac University</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>PINK- PSP Assistant Coordinator</title>
+          <company>
+            <id>2250</id>
+            <name>Limited Brands</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1345774709213</timestamp>
+    <update-key>UNIU-c2250-5644588246001278976-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2250</id>
+        <name>Limited Brands</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>5Kuq2Rl0gC</id>
+          <first-name>Michael</first-name>
+          <last-name>Gregor</last-name>
+          <headline>Product Manager - Functional Manager Role at Limited Brands - Victoria's Secret Canada</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_eOkdZa5dChpofJa3ox99ZuqXG8Rd7sO3oyKnZSXJj5fJKOdTX4NL9DKc2aU92g0DWjQcBo9rzmF5</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/5Kuq2Rl0gC</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:yX3b</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=91884911&amp;authToken=yX3b&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Route Sales Representative</title>
+          <company>
+            <id>2250</id>
+            <name>Limited Brands</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+</updates>

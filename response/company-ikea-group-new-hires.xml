@@ -1,0 +1,825 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<updates total="16">
+  <update>
+    <timestamp>1348238199186</timestamp>
+    <update-key>UNIU-c2743-5654920871836405760-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2743</id>
+        <name>IKEA Group</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>mnR5WA3SZa</id>
+          <first-name>Jeroen</first-name>
+          <last-name>den Breejen</last-name>
+          <headline>Master Student at University of Groningen</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_9fXpR8SLy8u1WlZTnDk_Rifwp3VjwBJTqwr_RiDsibaDN1a3sdqrv_MN-2sGHK4Sc26Gqkxb0Gbe</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/mnR5WA3SZa</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:sHKI</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=82783916&amp;authToken=sHKI&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Ergocoach</title>
+          <company>
+            <id>2743</id>
+            <name>IKEA Group</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1348050921584</timestamp>
+    <update-key>UNIU-c2743-5654135372628647936-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2743</id>
+        <name>IKEA Group</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>UjKOC7NuwJ</id>
+          <first-name>Lisette Marlies</first-name>
+          <last-name>Salomons</last-name>
+          <headline>Trainee HR adviseur at IKEA Breda</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_tK6jMzP_yTiYgBofK9kCMBkgy_kxjqUfr--CMBig_LK7GKu7On9AccBPtmX8Y1siPPXinrgae4zr</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/UjKOC7NuwJ</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:D9AS</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=112849875&amp;authToken=D9AS&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Participation council</title>
+          <company>
+            <id>13515</id>
+            <name>Avans Hogeschool</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Trainee HR adviseur</title>
+          <company>
+            <id>2743</id>
+            <name>IKEA Group</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347988461184</timestamp>
+    <update-key>UNIU-c2743-5653873394748227584-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2743</id>
+        <name>IKEA Group</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>RJZgtaX6z5</id>
+          <first-name>Rutger</first-name>
+          <last-name>Walstra</last-name>
+          <headline>Logistics Employee at IKEA Group</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/RJZgtaX6z5</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:MlpK</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=115620690&amp;authToken=MlpK&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Employee</title>
+          <company>
+            <id>2743</id>
+            <name>IKEA Group</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347913343261</timestamp>
+    <update-key>UNIU-c2743-5653558327351717888-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2743</id>
+        <name>IKEA Group</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>usFxf81_o5</id>
+          <first-name>karl-johan</first-name>
+          <last-name>kallenberg</last-name>
+          <headline>Business Navigator at IKEA Business Services</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_OPQTE-T2lWG8KvjkKB9OElb31HcmyvukyNtOElFO2DiY_AUXtvnSXAPrjQBl0tSe0Kkx59vkpW8X</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/usFxf81_o5</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:d7x9</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=58653345&amp;authToken=d7x9&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Business Navigator</title>
+          <company>
+            <id>2743</id>
+            <name>IKEA Group</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347910273321</timestamp>
+    <update-key>UNIU-c2743-5653545451077525504-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2743</id>
+        <name>IKEA Group</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>DStVigoBQl</id>
+          <first-name>Carmine</first-name>
+          <last-name>Di Marco</last-name>
+          <headline>Learning &amp; Development Manager</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/DStVigoBQl</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:oN4Y</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=27910846&amp;authToken=oN4Y&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Learning &amp; Development Manager</title>
+          <company>
+            <id>2743</id>
+            <name>IKEA Group</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347898511099</timestamp>
+    <update-key>UNIU-c2743-5653496116734349312-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2743</id>
+        <name>IKEA Group</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>91NS3wm99S</id>
+          <first-name>Mieke</first-name>
+          <last-name>Nachtergaele</last-name>
+          <headline>Experienced planner</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_XGm9LH2PwEZMvWHZ65xLLEaYWoDZvoWZ6QsWLwSfnuJeEmY4eXYVwIJ3bFSb9DeNL3uHo2P2lGqC</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/91NS3wm99S</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:q87E</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=58671751&amp;authToken=q87E&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Trainee BAM (business area manager)</title>
+          <company>
+            <id>2743</id>
+            <name>IKEA Group</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347887913111</timestamp>
+    <update-key>UNIU-c2743-5653451665555087360-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2743</id>
+        <name>IKEA Group</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>m3yzgWMzP6</id>
+          <first-name>Maarten</first-name>
+          <last-name>Martens</last-name>
+          <headline>Commercial &amp; Development Manager</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_sNXFMQ-uuQDfpOg7V-Q4MLqp86W8OUS749rZMLqyxigK30sf9tqIc58tmedxgyu_UB6JnCEfOkSr</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/m3yzgWMzP6</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:7-4C</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=27457876&amp;authToken=7-4C&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>F&amp;B manager</title>
+          <company>
+            <id>2743</id>
+            <name>IKEA</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Commercial &amp; Development Manager IKEA FOOD NL</title>
+          <company>
+            <id>2743</id>
+            <name>IKEA Group</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347710117493</timestamp>
+    <update-key>UNIU-c2743-5652705936691699712-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2743</id>
+        <name>IKEA Group</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>SHdOqTFHFo</id>
+          <first-name>Raúl</first-name>
+          <last-name>Olivares Mañas</last-name>
+          <headline>Relaciones Laborales/P.R.L en IKEA Group</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_hW3LFOxB8wBBEsmc8wPVFgmHGelcQsmcCIzsFyjeja5FMOMBu7AdWpWQ25AHLg7R3EiRHRfx2Bjw</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/SHdOqTFHFo</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:URkx</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=102408254&amp;authToken=URkx&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Técnico de RR.HH</title>
+          <company>
+            <name>Kostal Eléctrica S.A</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Relaciones Laborales/P.R.L</title>
+          <company>
+            <id>2743</id>
+            <name>IKEA Group</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347575902993</timestamp>
+    <update-key>UNIU-c2743-5652143000315240448-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2743</id>
+        <name>IKEA Group</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>SLwU2RLO2n</id>
+          <first-name>Jesper</first-name>
+          <last-name>P. Duquesnay</last-name>
+          <headline>co-worker at IKEA Group</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/SLwU2RLO2n</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:5bHZ</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=153040535&amp;authToken=5bHZ&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>co-worker</title>
+          <company>
+            <id>2743</id>
+            <name>IKEA Group</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347519331795</timestamp>
+    <update-key>UNIU-c2743-5651905723471241216-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2743</id>
+        <name>IKEA Group</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>eEaD9fAh4q</id>
+          <first-name>Berta</first-name>
+          <last-name>Dom.Unzurrunzaga</last-name>
+          <headline>Architecture Student</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/eEaD9fAh4q</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:m-Cp</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=147873188&amp;authToken=m-Cp&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Web Editor</title>
+          <company>
+            <id>2743</id>
+            <name>IKEA Group</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347477111010</timestamp>
+    <update-key>UNIU-c2743-5651728636668026880-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2743</id>
+        <name>IKEA Group</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>rZ86e4P6rz</id>
+          <first-name>Angela</first-name>
+          <last-name>Aitken-Slagter</last-name>
+          <headline>medewerker HR bij IKEA Group</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_mbFanO4O-CCWUzjt26XjngHYtTA5Jnytui1lngMYSFLv6-w-GTcG4jDKyulsslgY7kLrMVFVkQfv</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/rZ86e4P6rz</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:iv48</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=184166726&amp;authToken=iv48&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>medewerker HR</title>
+          <company>
+            <id>2743</id>
+            <name>IKEA Group</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347383467685</timestamp>
+    <update-key>UNIU-c2743-5651335868087021568-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2743</id>
+        <name>IKEA Group</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>a-SbJFKT13</id>
+          <first-name>Mette</first-name>
+          <last-name>Skøien</last-name>
+          <headline>Customer Services Assistant</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_jbmxXPHfZec8MLMn03x2XA4t4u-_vQMn0ishXrMfFo6PEGm9lTYPEKD39Tty9TZspkuTIBFLSlTh</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/a-SbJFKT13</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:DXo0</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=118430130&amp;authToken=DXo0&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Customer Services Assistant</title>
+          <company>
+            <id>2743</id>
+            <name>IKEA Group</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347312787490</timestamp>
+    <update-key>UNIU-c2743-5651039413879205888-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2743</id>
+        <name>IKEA Group</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>8AgcWHHk1y</id>
+          <first-name>Giovanni</first-name>
+          <last-name>Bergami</last-name>
+          <headline>comunication and interior designer presso IKEA Group</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_U-uG0h3rnBOf1ihGMrpj0_90N9Vm1LhGMnZg0_bawKaY2TcCcqyali1hsRslKG3asAmprXvN91Sj</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/8AgcWHHk1y</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:1P20</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=160171830&amp;authToken=1P20&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>comunication and interior designer</title>
+          <company>
+            <id>2743</id>
+            <name>IKEA Group</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347298101546</timestamp>
+    <update-key>UNIU-c2743-5650977816548765696-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2743</id>
+        <name>IKEA Group</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>qNmoar_Ngr</id>
+          <first-name>Javier</first-name>
+          <last-name>Soto, Jr.</last-name>
+          <headline>Marketing and Advertising Professional</headline>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/qNmoar_Ngr</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:yhuK</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=121513208&amp;authToken=yhuK&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Self Serve</title>
+          <company>
+            <id>2743</id>
+            <name>IKEA Group</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347065547076</timestamp>
+    <update-key>UNIU-c2743-5650002412417609728-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2743</id>
+        <name>IKEA Group</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>-8sCAguVkl</id>
+          <first-name>Margaux</first-name>
+          <last-name>Vatel</last-name>
+          <headline>Swedish Food Market &amp; Bistro Coworker at IKEA Group</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_SLdZcMyTeQqqMEEj73MFcRs3e3TkUdRjfbjFcVRpBXvNkS2g3iJNMs7-Q73U4aVAu6IQ4gWrgxxl</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/-8sCAguVkl</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:2-WO</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=91278945&amp;authToken=2-WO&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <title>Undergrad Sr. Analyst</title>
+          <company>
+            <id>1093</id>
+            <name>Dell</name>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Swedish Food Market &amp; Bistro Coworker</title>
+          <company>
+            <id>2743</id>
+            <name>IKEA Group</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+  <update>
+    <timestamp>1347018272209</timestamp>
+    <update-key>UNIU-c2743-5649804127253835776-FOLLOW_CMPY</update-key>
+    <update-type>CMPY</update-type>
+    <update-content>
+      <company>
+        <id>2743</id>
+        <name>IKEA Group</name>
+      </company>
+      <company-person-update>
+        <person>
+          <id>Oks9ExNBv-</id>
+          <first-name>Cara Beth</first-name>
+          <last-name>Stein-Drago</last-name>
+          <headline>Experienced Sr. Manager</headline>
+          <picture-url>http://m3.licdn.com/mpr/mprx/0_y9lKkl9jO2vr-BHBOqC_k-NGpdrhKlHBOA5fk1zCi7Xr7z0crrTyoPTu-XK01ndUgzPmwNFykUvt</picture-url>
+          <api-standard-profile-request>
+            <url>http://api.linkedin.com/v1/people/Oks9ExNBv-</url>
+            <headers total="1">
+              <http-header>
+                <name>x-li-auth-token</name>
+                <value>name:axMK</value>
+              </http-header>
+            </headers>
+          </api-standard-profile-request>
+          <site-standard-profile-request>
+            <url>http://www.linkedin.com/profile?viewProfile=&amp;key=200339881&amp;authToken=axMK&amp;authType=name&amp;trk=api*a210818*s218831*</url>
+          </site-standard-profile-request>
+        </person>
+        <action>
+          <code>joined</code>
+        </action>
+        <old-position>
+          <company>
+          </company>
+        </old-position>
+        <new-position>
+          <title>Sales</title>
+          <company>
+            <id>2743</id>
+            <name>IKEA Group</name>
+          </company>
+        </new-position>
+      </company-person-update>
+    </update-content>
+    <is-commentable>true</is-commentable>
+    <update-comments total="0" />
+    <is-likable>true</is-likable>
+    <is-liked>false</is-liked>
+    <num-likes>0</num-likes>
+  </update>
+</updates>
