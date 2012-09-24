@@ -1,7 +1,7 @@
 # Author: Daniel Zhao
 # File: linkedin_get_jobs.py
 
-# View database at http://localhost:5984/_utils/index.html
+# View database at http://dannizhao.iriscouch.com/_utils/index.html
 
 import sys
 import time
@@ -13,15 +13,15 @@ from login import login
 
 # Linkedin Industry Code: https://developer.linkedin.com/documents/industry-codes
 # Industry: Retail
-INDUSTRY_CODE = '27'
-INDUSTRY_NAME = 'retail'
+INDUSTRY_CODE = '96'
+INDUSTRY_NAME = 'information-technology-and-services'
 
 MAX_RESULTS = 5000
 # Establish a connection to a CouchDB database
 
-server = couchdb.Server('http://localhost:5984')
-DB = 'job-postings-%s' % ( INDUSTRY_NAME, )
-DB2 = 'job-postings-%s-meta' % ( INDUSTRY_NAME, )
+server = couchdb.Server('http://dannizhao.iriscouch.com/')
+DB = 'linkedin-job-search-%s' % ( INDUSTRY_NAME, )
+DB2 = 'linkedin-job-search-%s-response' % ( INDUSTRY_NAME, )
 
 try:
 	db = server.create(DB)

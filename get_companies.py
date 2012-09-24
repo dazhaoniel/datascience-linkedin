@@ -1,7 +1,7 @@
 # Author: Daniel Zhao
 # File: linkedin_get_companies.py
 
-# View database at http://localhost:5984/_utils/index.html
+# View database at http://dannizhao.iriscouch.com/
 
 import sys
 import time
@@ -19,7 +19,7 @@ INDUSTRY_NAME = 'retail'
 MAX_RESULTS = 5000
 # Establish a connection to a CouchDB database
 
-server = couchdb.Server('http://localhost:5984')
+server = couchdb.Server('http://dannizhao.iriscouch.com/')
 DB = 'company-%s' % ( INDUSTRY_NAME, )
 DB2 = 'company-%s-meta' % ( INDUSTRY_NAME, )
 
