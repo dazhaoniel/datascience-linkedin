@@ -13,8 +13,8 @@ from login import login
 
 # Linkedin Industry Code: https://developer.linkedin.com/documents/industry-codes
 # Industry: Retail
-INDUSTRY_CODE = '96'
-INDUSTRY_NAME = 'information-technology-and-services'
+INDUSTRY_CODE = '68'
+INDUSTRY_NAME = 'higher-education'
 
 MAX_RESULTS = 5000
 # Establish a connection to a CouchDB database
