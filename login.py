@@ -8,10 +8,10 @@ import time, os, simplejson
 
 
 def login():
-	CONSUMER_KEY      =   'mtt4fefyssp5'
-	CONSUMER_SECRET  =   'zz8tvRMUeYUn32vB'
-	OAUTH_TOKEN           =   '53e42f02-8009-4c9e-8c1d-82a98b6b50f2'
-	OAUTH_TOKEN_SECRET          =   'df69d1b1-2831-42f0-bd86-c565150e460d'
+	CONSUMER_KEY      =   ''
+	CONSUMER_SECRET  =   ''
+	OAUTH_TOKEN           =   ''
+	OAUTH_TOKEN_SECRET          =   ''
 
 	url = "http://api.linkedin.com/v1/people/~?format=json"
 
